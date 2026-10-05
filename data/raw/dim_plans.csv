@@ -1,0 +1,4 @@
+plan_id,plan_name,monthly_price,billing_cycle
+p_basic,Basic,29.0,Monthly
+p_pro,Pro,79.0,Monthly
+p_ent,Enterprise,499.0,Annual

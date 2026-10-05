@@ -1,0 +1,157 @@
+[
+  {
+    "file":"Dataset\/Cleaned Dataset\/subscriptions_clean.csv",
+    "rows":1358,
+    "columns":7,
+    "columns_list":[
+      "Subscription_Id",
+      "Customer_Id",
+      "Plan_Id",
+      "Start_Date",
+      "End_Date",
+      "Status",
+      "Subscription_Days"
+    ]
+  },
+  {
+    "file":"Dataset\/Cleaned Dataset\/usage_clean.csv",
+    "rows":22702,
+    "columns":6,
+    "columns_list":[
+      "Usage_Id",
+      "Customer_Id",
+      "Event_Date",
+      "Feature_Name",
+      "Login_Count",
+      "Session_Minutes"
+    ]
+  },
+  {
+    "file":"Dataset\/Cleaned Dataset\/payments_clean.csv",
+    "rows":2813,
+    "columns":6,
+    "columns_list":[
+      "Payment_Id",
+      "Subscription_Id",
+      "Payment_Date",
+      "Amount",
+      "Payment_Status",
+      "Payment_Method"
+    ]
+  },
+  {
+    "file":"Dataset\/Cleaned Dataset\/plans_clean.csv",
+    "rows":3,
+    "columns":4,
+    "columns_list":[
+      "Plan_Id",
+      "Plan_Name",
+      "Monthly_Price",
+      "Billing_Cycle"
+    ]
+  },
+  {
+    "file":"Dataset\/Cleaned Dataset\/customers_clean.csv",
+    "rows":1500,
+    "columns":6,
+    "columns_list":[
+      "Customer_Id",
+      "Signup_Date",
+      "Country",
+      "Industry",
+      "Company_Size",
+      "Segment"
+    ]
+  },
+  {
+    "file":"Dataset\/Cleaned Dataset\/support_clean.csv",
+    "rows":716,
+    "columns":7,
+    "columns_list":[
+      "Ticket_Id",
+      "Customer_Id",
+      "Ticket_Date",
+      "Priority",
+      "Category",
+      "Resolution_Time",
+      "Status"
+    ]
+  },
+  {
+    "file":"Dataset\/Raw Datset\/dim_customers.csv",
+    "rows":1550,
+    "columns":6,
+    "columns_list":[
+      "customer_id",
+      "signup_date",
+      "country",
+      "industry",
+      "company_size",
+      "segment"
+    ]
+  },
+  {
+    "file":"Dataset\/Raw Datset\/fact_payments.csv",
+    "rows":3063,
+    "columns":6,
+    "columns_list":[
+      "payment_id",
+      "subscription_id",
+      "payment_date",
+      "amount",
+      "payment_status",
+      "payment_method"
+    ]
+  },
+  {
+    "file":"Dataset\/Raw Datset\/fact_usage.csv",
+    "rows":24756,
+    "columns":6,
+    "columns_list":[
+      "usage_id",
+      "customer_id",
+      "event_date",
+      "feature_name",
+      "login_count",
+      "session_minutes"
+    ]
+  },
+  {
+    "file":"Dataset\/Raw Datset\/dim_plans.csv",
+    "rows":3,
+    "columns":4,
+    "columns_list":[
+      "plan_id",
+      "plan_name",
+      "monthly_price",
+      "billing_cycle"
+    ]
+  },
+  {
+    "file":"Dataset\/Raw Datset\/fact_subscriptions.csv",
+    "rows":1500,
+    "columns":6,
+    "columns_list":[
+      "subscription_id",
+      "customer_id",
+      "plan_id",
+      "start_date",
+      "end_date",
+      "status"
+    ]
+  },
+  {
+    "file":"Dataset\/Raw Datset\/fact_support.csv",
+    "rows":784,
+    "columns":7,
+    "columns_list":[
+      "ticket_id",
+      "customer_id",
+      "ticket_date",
+      "priority",
+      "category",
+      "resolution_time",
+      "status"
+    ]
+  }
+]

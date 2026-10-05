@@ -1,0 +1,7 @@
+dataset,rows,columns,duplicate_rows,missing_values
+customers,1550,6,50,593
+plans,3,4,0,0
+subscriptions,1500,6,0,1043
+payments,3063,6,0,0
+usage,24756,6,0,942
+support,784,7,0,0

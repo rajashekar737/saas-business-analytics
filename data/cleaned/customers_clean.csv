@@ -1,0 +1,1501 @@
+Customer_Id,Signup_Date,Country,Industry,Company_Size,Segment
+CUST_2000,2025-09-15,Unknown,Logistics,unknown,SMB
+CUST_2001,2025-10-10,Unknown,E-Commerce,500+,Enterprise
+CUST_2002,2025-03-19,Unknown,Logistics,201-500,SMB
+CUST_2003,2025-11-30,United States,Finance,51-200,SMB
+CUST_2004,2025-01-30,Unknown,Unknown,51-200,SMB
+CUST_2005,2025-04-27,Canada,Saas,201-500,Enterprise
+CUST_2006,2025-01-29,United States,Unknown,51-200,SMB
+CUST_2007,2025-05-11,United Kingdom,Saas,201-500,SMB
+CUST_2008,2025-07-25,United Kingdom,Finance,unknown,Mid-Market
+CUST_2009,2025-01-28,Canada,Finance,201-500,Enterprise
+CUST_2010,2025-09-07,United States,E-Commerce,500+,Enterprise
+CUST_2011,2025-09-21,Canada,Logistics,51-200,Mid-Market
+CUST_2012,2025-04-07,Unknown,Logistics,500+,SMB
+CUST_2013,2025-05-16,United States,Finance,unknown,Enterprise
+CUST_2014,2025-04-22,United States,Unknown,500+,Mid-Market
+CUST_2015,2025-11-01,Unknown,Healthcare,1-10,Enterprise
+CUST_2016,2025-10-22,Unknown,Unknown,500+,Mid-Market
+CUST_2017,2025-01-26,United Kingdom,Logistics,unknown,Enterprise
+CUST_2018,2025-11-21,Canada,E-Commerce,11-50,Mid-Market
+CUST_2019,2025-04-23,United States,Finance,11-50,Enterprise
+CUST_2020,2025-11-13,Unknown,Logistics,201-500,Mid-Market
+CUST_2021,2025-01-18,United Kingdom,Unknown,201-500,Mid-Market
+CUST_2022,2025-09-08,Unknown,E-Commerce,500+,Enterprise
+CUST_2023,2025-07-21,United Kingdom,Saas,201-500,SMB
+CUST_2024,2025-04-27,Unknown,Saas,201-500,SMB
+CUST_2025,2025-02-17,Unknown,Finance,unknown,Mid-Market
+CUST_2026,2025-05-29,Canada,Finance,11-50,Enterprise
+CUST_2027,2025-12-28,United States,E-Commerce,1-10,SMB
+CUST_2028,2025-12-18,Unknown,Finance,500+,SMB
+CUST_2029,2025-11-23,United States,Logistics,51-200,Enterprise
+CUST_2030,2025-09-07,Canada,Healthcare,1-10,Mid-Market
+CUST_2031,2025-10-24,Unknown,Unknown,unknown,SMB
+CUST_2032,2025-09-03,Unknown,Logistics,11-50,Enterprise
+CUST_2033,2025-01-04,Unknown,Saas,1-10,Mid-Market
+CUST_2034,2025-10-20,United States,Logistics,51-200,Enterprise
+CUST_2035,2025-05-18,United States,Logistics,11-50,Mid-Market
+CUST_2036,2025-06-02,United States,E-Commerce,1-10,SMB
+CUST_2037,2025-02-19,Canada,Finance,1-10,Enterprise
+CUST_2038,2025-08-15,United Kingdom,E-Commerce,51-200,SMB
+CUST_2039,2025-10-19,Unknown,Logistics,500+,SMB
+CUST_2040,2025-08-05,Unknown,Healthcare,201-500,Enterprise
+CUST_2041,2025-06-09,United Kingdom,Unknown,unknown,SMB
+CUST_2042,2025-11-08,United States,Healthcare,unknown,SMB
+CUST_2043,2025-09-17,Unknown,Finance,201-500,Enterprise
+CUST_2044,2025-03-15,United States,Healthcare,unknown,Enterprise
+CUST_2045,2025-10-22,Unknown,Healthcare,11-50,Enterprise
+CUST_2046,2025-10-16,Canada,Saas,201-500,Enterprise
+CUST_2047,2025-04-12,United States,E-Commerce,51-200,SMB
+CUST_2048,2025-02-28,United Kingdom,E-Commerce,201-500,Mid-Market
+CUST_2049,2025-01-23,United States,Saas,500+,Mid-Market
+CUST_2050,2025-03-21,Unknown,Logistics,51-200,SMB
+CUST_2051,2025-03-17,United Kingdom,Finance,1-10,Mid-Market
+CUST_2052,2025-05-20,Canada,Logistics,unknown,SMB
+CUST_2053,2025-09-09,Canada,Healthcare,51-200,Enterprise
+CUST_2054,2025-01-15,Unknown,Healthcare,1-10,Enterprise
+CUST_2055,2025-10-16,Unknown,Logistics,unknown,SMB
+CUST_2056,2025-07-14,United Kingdom,Unknown,500+,SMB
+CUST_2057,2025-10-04,United Kingdom,Finance,201-500,SMB
+CUST_2058,2025-11-14,United States,Saas,unknown,SMB
+CUST_2059,2025-06-14,United States,Logistics,51-200,Mid-Market
+CUST_2060,2025-10-16,United States,Saas,51-200,SMB
+CUST_2061,2025-08-01,United States,Finance,201-500,Mid-Market
+CUST_2062,2025-06-11,United States,Finance,1-10,SMB
+CUST_2063,2025-03-08,United States,Finance,unknown,Enterprise
+CUST_2064,2025-11-17,Canada,Saas,201-500,Enterprise
+CUST_2065,2025-02-13,United States,E-Commerce,51-200,Enterprise
+CUST_2066,2025-12-01,Unknown,E-Commerce,unknown,SMB
+CUST_2067,2025-09-10,Unknown,Unknown,51-200,Mid-Market
+CUST_2068,2025-11-04,Canada,Finance,unknown,Enterprise
+CUST_2069,2025-04-23,United States,Saas,unknown,Mid-Market
+CUST_2070,2025-07-08,United States,Saas,201-500,Mid-Market
+CUST_2071,2025-03-09,United States,Logistics,51-200,SMB
+CUST_2072,2025-01-20,United States,Healthcare,500+,SMB
+CUST_2073,2025-01-03,United States,Logistics,51-200,Enterprise
+CUST_2074,2025-03-31,United Kingdom,Finance,201-500,Enterprise
+CUST_2075,2025-03-11,Canada,E-Commerce,201-500,SMB
+CUST_2076,2025-11-08,United Kingdom,Healthcare,11-50,Enterprise
+CUST_2077,2025-09-28,Unknown,Unknown,500+,Mid-Market
+CUST_2078,2025-12-26,United States,Healthcare,1-10,SMB
+CUST_2079,2025-12-31,Unknown,E-Commerce,51-200,Mid-Market
+CUST_2080,2025-09-07,United States,Healthcare,500+,SMB
+CUST_2081,2025-08-04,Unknown,Saas,51-200,Enterprise
+CUST_2082,2025-07-15,Canada,Finance,unknown,SMB
+CUST_2083,2025-10-05,United Kingdom,E-Commerce,1-10,SMB
+CUST_2084,2025-02-03,United States,Unknown,201-500,Enterprise
+CUST_2085,2025-08-18,United Kingdom,Logistics,51-200,Mid-Market
+CUST_2086,2025-08-10,Canada,Saas,201-500,Enterprise
+CUST_2087,2025-09-27,Unknown,Unknown,500+,Mid-Market
+CUST_2088,2025-08-03,Canada,Healthcare,201-500,SMB
+CUST_2089,2025-03-27,Unknown,Unknown,201-500,SMB
+CUST_2090,2025-12-06,United States,Saas,51-200,Enterprise
+CUST_2091,2025-09-22,United States,Unknown,unknown,SMB
+CUST_2092,2025-02-05,United States,Logistics,11-50,Enterprise
+CUST_2093,2025-12-20,United States,E-Commerce,201-500,Enterprise
+CUST_2094,2025-04-06,Unknown,Unknown,unknown,SMB
+CUST_2095,2025-05-13,United States,Finance,11-50,Enterprise
+CUST_2096,2025-02-08,Unknown,Saas,51-200,SMB
+CUST_2097,2025-04-03,United Kingdom,Healthcare,51-200,Mid-Market
+CUST_2098,2025-01-23,Canada,Healthcare,201-500,SMB
+CUST_2099,2025-04-09,United States,Logistics,unknown,Mid-Market
+CUST_2100,2025-09-14,Canada,Logistics,11-50,Enterprise
+CUST_2101,2025-07-02,United States,Saas,500+,SMB
+CUST_2102,2025-05-05,United States,Logistics,unknown,Enterprise
+CUST_2103,2025-02-02,United States,Saas,1-10,Mid-Market
+CUST_2104,2025-04-19,Unknown,Healthcare,500+,Enterprise
+CUST_2105,2025-11-25,United States,Saas,201-500,SMB
+CUST_2106,2025-09-30,United States,E-Commerce,51-200,Enterprise
+CUST_2107,2025-06-21,United States,Saas,201-500,Mid-Market
+CUST_2108,2025-03-31,Unknown,Healthcare,51-200,Enterprise
+CUST_2109,2025-04-08,Canada,Finance,1-10,SMB
+CUST_2110,2025-11-21,United Kingdom,Saas,unknown,SMB
+CUST_2111,2025-03-05,Canada,Logistics,500+,Mid-Market
+CUST_2112,2025-09-24,Unknown,E-Commerce,51-200,SMB
+CUST_2113,2025-07-29,Unknown,Healthcare,unknown,Mid-Market
+CUST_2114,2025-01-21,Canada,E-Commerce,500+,Mid-Market
+CUST_2115,2025-11-16,Unknown,Unknown,500+,Enterprise
+CUST_2116,2025-03-12,Canada,Saas,51-200,SMB
+CUST_2117,2025-11-13,Unknown,Saas,11-50,Enterprise
+CUST_2118,2025-04-28,United Kingdom,Saas,11-50,Enterprise
+CUST_2119,2025-02-21,United Kingdom,Saas,500+,Mid-Market
+CUST_2120,2025-08-08,Canada,Finance,500+,Enterprise
+CUST_2121,2025-07-22,Canada,Saas,1-10,Enterprise
+CUST_2122,2025-08-20,Unknown,Unknown,unknown,Enterprise
+CUST_2123,2025-02-18,Unknown,Healthcare,201-500,Mid-Market
+CUST_2124,2025-03-01,United States,E-Commerce,unknown,SMB
+CUST_2125,2025-06-17,Unknown,Unknown,51-200,SMB
+CUST_2126,2025-11-22,Canada,E-Commerce,201-500,Mid-Market
+CUST_2127,2025-05-04,United Kingdom,Unknown,1-10,Enterprise
+CUST_2128,2025-04-04,United Kingdom,Saas,1-10,SMB
+CUST_2129,2025-07-07,Unknown,Saas,500+,Enterprise
+CUST_2130,2025-12-29,Unknown,Unknown,11-50,Enterprise
+CUST_2131,2025-09-22,United States,Healthcare,51-200,SMB
+CUST_2132,2025-06-03,United Kingdom,Logistics,unknown,SMB
+CUST_2133,2025-08-13,United States,Logistics,201-500,Enterprise
+CUST_2134,2025-07-12,Unknown,Healthcare,1-10,SMB
+CUST_2135,2025-02-17,Canada,Finance,11-50,Enterprise
+CUST_2136,2025-08-30,United Kingdom,E-Commerce,unknown,Enterprise
+CUST_2137,2025-10-25,Canada,Saas,500+,Mid-Market
+CUST_2138,2025-07-29,Canada,Saas,1-10,Enterprise
+CUST_2139,2025-02-15,United States,E-Commerce,51-200,Mid-Market
+CUST_2140,2025-04-27,Unknown,Healthcare,51-200,Mid-Market
+CUST_2141,2025-03-09,Canada,Saas,11-50,Enterprise
+CUST_2142,2025-08-01,Canada,Finance,unknown,Enterprise
+CUST_2143,2025-06-29,Unknown,Unknown,500+,Mid-Market
+CUST_2144,2025-03-24,United States,Logistics,500+,Enterprise
+CUST_2145,2025-11-10,Canada,Unknown,51-200,Mid-Market
+CUST_2146,2025-05-10,Unknown,Healthcare,51-200,Enterprise
+CUST_2147,2025-04-29,Canada,Unknown,1-10,Enterprise
+CUST_2148,2025-10-09,United States,E-Commerce,11-50,SMB
+CUST_2149,2025-11-30,Unknown,Healthcare,500+,SMB
+CUST_2150,2025-12-19,United Kingdom,Unknown,201-500,SMB
+CUST_2151,2025-09-25,Canada,Saas,unknown,Mid-Market
+CUST_2152,2025-08-21,Unknown,Healthcare,11-50,Enterprise
+CUST_2153,2025-03-10,United States,Unknown,11-50,SMB
+CUST_2154,2025-08-17,United States,Unknown,1-10,Mid-Market
+CUST_2155,2025-02-06,United States,Healthcare,51-200,Enterprise
+CUST_2156,2025-09-01,United States,E-Commerce,11-50,SMB
+CUST_2157,2025-08-27,United States,Unknown,11-50,Mid-Market
+CUST_2158,2025-10-14,Unknown,Logistics,1-10,Mid-Market
+CUST_2159,2025-08-12,Canada,Logistics,1-10,Mid-Market
+CUST_2160,2025-08-30,Canada,Healthcare,51-200,SMB
+CUST_2161,2025-05-01,United States,E-Commerce,1-10,SMB
+CUST_2162,2025-08-12,United Kingdom,Saas,1-10,SMB
+CUST_2163,2025-01-14,United States,E-Commerce,unknown,Mid-Market
+CUST_2164,2025-03-12,United States,Healthcare,11-50,Enterprise
+CUST_2165,2025-05-28,United Kingdom,Saas,11-50,Enterprise
+CUST_2166,2025-06-16,Canada,Unknown,201-500,Mid-Market
+CUST_2167,2025-04-19,United Kingdom,Saas,unknown,Enterprise
+CUST_2168,2025-07-02,Unknown,Logistics,201-500,SMB
+CUST_2169,2025-01-10,United Kingdom,Unknown,11-50,SMB
+CUST_2170,2025-04-15,Canada,Unknown,unknown,Enterprise
+CUST_2171,2025-12-09,United States,Healthcare,11-50,Enterprise
+CUST_2172,2025-03-10,Canada,Finance,500+,SMB
+CUST_2173,2025-12-07,United Kingdom,Saas,unknown,Mid-Market
+CUST_2174,2025-05-27,Unknown,Logistics,201-500,Mid-Market
+CUST_2175,2025-08-26,Unknown,Healthcare,1-10,SMB
+CUST_2176,2025-07-05,Canada,E-Commerce,201-500,Enterprise
+CUST_2177,2025-03-31,United States,Unknown,unknown,Enterprise
+CUST_2178,2025-10-15,United Kingdom,Unknown,1-10,Mid-Market
+CUST_2179,2025-08-01,Unknown,Logistics,500+,SMB
+CUST_2180,2025-12-12,United Kingdom,Finance,1-10,Enterprise
+CUST_2181,2025-06-05,Unknown,E-Commerce,500+,SMB
+CUST_2182,2025-08-29,Unknown,Logistics,201-500,Enterprise
+CUST_2183,2025-08-11,Canada,Healthcare,1-10,SMB
+CUST_2184,2025-10-29,United States,Logistics,51-200,SMB
+CUST_2185,2025-08-20,United States,Logistics,500+,SMB
+CUST_2186,2025-06-26,Canada,Unknown,11-50,Mid-Market
+CUST_2187,2025-11-04,United Kingdom,Saas,unknown,Mid-Market
+CUST_2188,2025-06-24,Canada,Healthcare,500+,Mid-Market
+CUST_2189,2025-10-31,Unknown,Healthcare,500+,SMB
+CUST_2190,2025-08-20,United States,Logistics,201-500,Enterprise
+CUST_2191,2025-12-02,Unknown,Finance,201-500,SMB
+CUST_2192,2025-01-01,United States,Logistics,201-500,SMB
+CUST_2193,2025-08-17,Unknown,Saas,51-200,Mid-Market
+CUST_2194,2025-12-26,United States,Saas,500+,Enterprise
+CUST_2195,2025-09-29,Unknown,Finance,500+,Mid-Market
+CUST_2196,2025-10-23,United States,Logistics,11-50,Mid-Market
+CUST_2197,2025-05-23,United States,Finance,201-500,Mid-Market
+CUST_2198,2025-05-31,United Kingdom,Healthcare,1-10,Mid-Market
+CUST_2199,2025-09-28,United States,Logistics,51-200,Mid-Market
+CUST_2200,2025-05-01,United States,Finance,11-50,Enterprise
+CUST_2201,2025-03-27,Unknown,Finance,201-500,Enterprise
+CUST_2202,2025-01-10,Canada,Unknown,201-500,Enterprise
+CUST_2203,2025-08-16,United States,Healthcare,unknown,Enterprise
+CUST_2204,2025-04-21,United States,Saas,1-10,SMB
+CUST_2205,2025-04-15,United Kingdom,Healthcare,1-10,Mid-Market
+CUST_2206,2025-02-04,United States,E-Commerce,51-200,SMB
+CUST_2207,2025-11-07,Unknown,Healthcare,500+,Enterprise
+CUST_2208,2025-01-26,Unknown,Healthcare,201-500,SMB
+CUST_2209,2025-11-05,United Kingdom,Logistics,201-500,Mid-Market
+CUST_2210,2025-04-04,United States,Finance,201-500,Mid-Market
+CUST_2211,2025-05-30,Unknown,Unknown,500+,SMB
+CUST_2212,2025-07-29,United States,Logistics,11-50,Enterprise
+CUST_2213,2025-09-22,Canada,Saas,unknown,Enterprise
+CUST_2214,2025-03-21,United States,Finance,51-200,SMB
+CUST_2215,2025-06-26,United States,Logistics,500+,SMB
+CUST_2216,2025-08-06,Unknown,Unknown,11-50,Enterprise
+CUST_2217,2025-01-20,United States,E-Commerce,500+,SMB
+CUST_2218,2025-10-20,Canada,Finance,unknown,Mid-Market
+CUST_2219,2025-03-19,Canada,Logistics,51-200,SMB
+CUST_2220,2025-06-13,United States,Unknown,51-200,SMB
+CUST_2221,2025-10-29,United Kingdom,Saas,500+,Enterprise
+CUST_2222,2025-12-01,United States,Saas,unknown,Enterprise
+CUST_2223,2025-06-28,United States,Saas,unknown,SMB
+CUST_2224,2025-01-27,United States,Healthcare,unknown,Mid-Market
+CUST_2225,2025-11-04,United States,Logistics,500+,Enterprise
+CUST_2226,2025-01-10,United States,Healthcare,1-10,Enterprise
+CUST_2227,2025-10-06,United States,E-Commerce,51-200,SMB
+CUST_2228,2025-12-16,United Kingdom,Healthcare,201-500,Enterprise
+CUST_2229,2025-08-12,Unknown,Logistics,1-10,SMB
+CUST_2230,2025-12-14,Canada,E-Commerce,1-10,Mid-Market
+CUST_2231,2025-01-10,Unknown,E-Commerce,unknown,Mid-Market
+CUST_2232,2025-06-19,Canada,E-Commerce,51-200,Mid-Market
+CUST_2233,2025-05-10,United States,Logistics,500+,SMB
+CUST_2234,2025-11-08,United Kingdom,Unknown,201-500,SMB
+CUST_2235,2025-03-07,Canada,Healthcare,1-10,SMB
+CUST_2236,2025-11-23,Canada,Unknown,500+,Mid-Market
+CUST_2237,2025-07-21,Unknown,Saas,500+,Enterprise
+CUST_2238,2025-01-05,United Kingdom,Saas,201-500,SMB
+CUST_2239,2025-06-30,United Kingdom,Finance,unknown,Enterprise
+CUST_2240,2025-12-08,United Kingdom,Healthcare,201-500,Enterprise
+CUST_2241,2025-05-21,Unknown,E-Commerce,unknown,Mid-Market
+CUST_2242,2025-02-23,United Kingdom,Unknown,1-10,Enterprise
+CUST_2243,2025-02-13,Unknown,Saas,201-500,SMB
+CUST_2244,2025-12-17,Unknown,Logistics,51-200,Enterprise
+CUST_2245,2025-08-20,Unknown,Saas,51-200,Mid-Market
+CUST_2246,2025-02-16,United States,E-Commerce,500+,Mid-Market
+CUST_2247,2025-10-16,Canada,Healthcare,500+,Enterprise
+CUST_2248,2025-03-11,United States,Finance,11-50,SMB
+CUST_2249,2025-05-18,Canada,E-Commerce,11-50,Mid-Market
+CUST_2250,2025-09-10,Canada,Finance,500+,SMB
+CUST_2251,2025-08-08,United States,Healthcare,201-500,SMB
+CUST_2252,2025-04-21,Canada,Unknown,500+,Enterprise
+CUST_2253,2025-11-15,United Kingdom,Saas,51-200,SMB
+CUST_2254,2025-02-02,United States,Saas,unknown,SMB
+CUST_2255,2025-01-20,Canada,Finance,unknown,SMB
+CUST_2256,2025-02-22,United Kingdom,Logistics,201-500,Mid-Market
+CUST_2257,2025-03-30,United States,Finance,51-200,SMB
+CUST_2258,2025-09-08,Unknown,Finance,500+,Mid-Market
+CUST_2259,2025-06-12,United States,Finance,1-10,Enterprise
+CUST_2260,2025-01-05,United States,E-Commerce,201-500,SMB
+CUST_2261,2025-09-06,Canada,Unknown,1-10,SMB
+CUST_2262,2025-11-12,Canada,Unknown,1-10,Mid-Market
+CUST_2263,2025-09-27,Unknown,Healthcare,201-500,SMB
+CUST_2264,2025-02-16,United States,Finance,11-50,Enterprise
+CUST_2265,2025-01-23,United Kingdom,Saas,201-500,SMB
+CUST_2266,2025-10-30,Canada,Finance,201-500,Enterprise
+CUST_2267,2025-08-26,United Kingdom,Saas,201-500,Enterprise
+CUST_2268,2025-10-27,United Kingdom,Healthcare,unknown,Enterprise
+CUST_2269,2025-09-06,Unknown,E-Commerce,51-200,SMB
+CUST_2270,2025-05-06,United Kingdom,Logistics,201-500,Mid-Market
+CUST_2271,2025-10-13,United Kingdom,Healthcare,unknown,Enterprise
+CUST_2272,2025-11-03,United States,Saas,500+,Mid-Market
+CUST_2273,2025-03-16,United Kingdom,Finance,500+,SMB
+CUST_2274,2025-04-04,United Kingdom,Logistics,500+,Mid-Market
+CUST_2275,2025-12-05,United States,Unknown,51-200,Mid-Market
+CUST_2276,2025-02-08,Unknown,Logistics,201-500,Enterprise
+CUST_2277,2025-03-06,Canada,E-Commerce,unknown,Mid-Market
+CUST_2278,2025-10-05,Canada,Saas,1-10,Mid-Market
+CUST_2279,2025-06-20,Canada,Saas,201-500,SMB
+CUST_2280,2025-04-16,Unknown,Finance,500+,SMB
+CUST_2281,2025-03-02,United Kingdom,Logistics,500+,SMB
+CUST_2282,2025-11-15,Canada,E-Commerce,51-200,Mid-Market
+CUST_2283,2025-03-23,United Kingdom,Finance,11-50,SMB
+CUST_2284,2025-03-05,United Kingdom,Healthcare,1-10,Enterprise
+CUST_2285,2025-08-27,Unknown,E-Commerce,1-10,Enterprise
+CUST_2286,2025-10-26,Unknown,Unknown,500+,SMB
+CUST_2287,2025-11-22,United States,E-Commerce,11-50,SMB
+CUST_2288,2025-10-03,United States,Finance,1-10,Enterprise
+CUST_2289,2025-06-02,Canada,Finance,11-50,Mid-Market
+CUST_2290,2025-04-01,Unknown,Unknown,1-10,Mid-Market
+CUST_2291,2025-06-17,Canada,Logistics,unknown,Mid-Market
+CUST_2292,2025-04-17,United States,E-Commerce,51-200,SMB
+CUST_2293,2025-07-13,Unknown,Healthcare,500+,Mid-Market
+CUST_2294,2025-05-03,United States,E-Commerce,500+,Mid-Market
+CUST_2295,2025-07-13,Unknown,Unknown,unknown,SMB
+CUST_2296,2025-01-25,United Kingdom,Finance,11-50,Mid-Market
+CUST_2297,2025-05-04,Unknown,Logistics,500+,SMB
+CUST_2298,2025-01-10,United States,Unknown,51-200,SMB
+CUST_2299,2025-11-23,United Kingdom,E-Commerce,201-500,SMB
+CUST_2300,2025-04-04,United States,Finance,51-200,Enterprise
+CUST_2301,2025-03-05,United Kingdom,Logistics,11-50,SMB
+CUST_2302,2025-11-05,United States,Saas,500+,Enterprise
+CUST_2303,2025-03-09,Unknown,Finance,unknown,SMB
+CUST_2304,2025-05-09,Canada,Healthcare,11-50,SMB
+CUST_2305,2025-06-30,United Kingdom,Unknown,1-10,Mid-Market
+CUST_2306,2025-04-05,Unknown,Saas,11-50,SMB
+CUST_2307,2025-12-13,Canada,E-Commerce,1-10,Enterprise
+CUST_2308,2025-12-12,United Kingdom,Logistics,1-10,Enterprise
+CUST_2309,2025-09-06,United Kingdom,Unknown,51-200,Mid-Market
+CUST_2310,2025-08-18,United States,Saas,11-50,Mid-Market
+CUST_2311,2025-09-24,United States,Healthcare,51-200,SMB
+CUST_2312,2025-08-18,Canada,Finance,201-500,Mid-Market
+CUST_2313,2025-11-11,United States,Unknown,1-10,SMB
+CUST_2314,2025-12-10,Canada,Finance,11-50,Enterprise
+CUST_2315,2025-05-09,Unknown,Finance,1-10,Mid-Market
+CUST_2316,2025-09-30,Canada,Finance,51-200,Mid-Market
+CUST_2317,2025-04-18,Canada,Unknown,51-200,Enterprise
+CUST_2318,2025-06-29,United Kingdom,Finance,51-200,Enterprise
+CUST_2319,2025-06-22,Unknown,Unknown,201-500,Enterprise
+CUST_2320,2025-04-09,Canada,Saas,11-50,Enterprise
+CUST_2321,2025-03-17,Unknown,Unknown,500+,Mid-Market
+CUST_2322,2025-10-04,Unknown,Finance,unknown,Enterprise
+CUST_2323,2025-10-01,United States,E-Commerce,201-500,Enterprise
+CUST_2324,2025-01-11,United States,E-Commerce,11-50,Enterprise
+CUST_2325,2025-08-02,United States,Unknown,unknown,Mid-Market
+CUST_2326,2025-09-30,United Kingdom,Finance,11-50,Mid-Market
+CUST_2327,2025-11-22,United Kingdom,Saas,11-50,Mid-Market
+CUST_2328,2025-11-17,United States,Finance,1-10,Enterprise
+CUST_2329,2025-07-22,Unknown,Saas,11-50,Mid-Market
+CUST_2330,2025-11-29,United States,Healthcare,unknown,Enterprise
+CUST_2331,2025-10-15,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_2332,2025-05-17,Unknown,E-Commerce,11-50,SMB
+CUST_2333,2025-03-29,Canada,Healthcare,500+,Enterprise
+CUST_2334,2025-09-14,Unknown,Saas,51-200,Enterprise
+CUST_2335,2025-06-22,Canada,Logistics,1-10,SMB
+CUST_2336,2025-05-12,United States,Finance,201-500,SMB
+CUST_2337,2025-05-31,United Kingdom,Saas,500+,Mid-Market
+CUST_2338,2025-06-06,Unknown,Finance,51-200,Enterprise
+CUST_2339,2025-11-23,United Kingdom,Unknown,1-10,Enterprise
+CUST_2340,2025-08-17,Unknown,Saas,unknown,SMB
+CUST_2341,2025-11-05,Unknown,Logistics,201-500,Enterprise
+CUST_2342,2025-03-19,United States,Finance,unknown,Enterprise
+CUST_2343,2025-12-11,United States,Logistics,11-50,SMB
+CUST_2344,2025-08-30,Canada,Healthcare,51-200,Enterprise
+CUST_2345,2025-09-06,United States,Unknown,51-200,SMB
+CUST_2346,2025-03-19,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_2347,2025-09-17,United States,Logistics,11-50,Mid-Market
+CUST_2348,2025-02-05,Canada,Finance,11-50,Mid-Market
+CUST_2349,2025-12-10,Canada,E-Commerce,500+,Enterprise
+CUST_2350,2025-11-10,Unknown,Finance,1-10,SMB
+CUST_2351,2025-04-16,United States,Unknown,51-200,Enterprise
+CUST_2352,2025-08-27,United States,E-Commerce,1-10,SMB
+CUST_2353,2025-08-06,United States,E-Commerce,1-10,SMB
+CUST_2354,2025-05-13,United States,E-Commerce,11-50,SMB
+CUST_2355,2025-07-11,Unknown,Finance,11-50,SMB
+CUST_2356,2025-12-18,Unknown,E-Commerce,201-500,Enterprise
+CUST_2357,2025-04-17,United States,E-Commerce,unknown,Mid-Market
+CUST_2358,2025-08-23,United States,Saas,201-500,SMB
+CUST_2359,2025-10-15,United States,Finance,11-50,SMB
+CUST_2360,2025-12-11,United Kingdom,Finance,1-10,Mid-Market
+CUST_2361,2025-07-09,United Kingdom,Finance,1-10,Mid-Market
+CUST_2362,2025-12-23,United Kingdom,E-Commerce,1-10,Mid-Market
+CUST_2363,2025-05-08,Canada,Saas,11-50,Enterprise
+CUST_2364,2025-01-13,United States,Finance,11-50,Mid-Market
+CUST_2365,2025-08-05,Unknown,Unknown,1-10,SMB
+CUST_2366,2025-09-27,Unknown,E-Commerce,1-10,Mid-Market
+CUST_2367,2025-07-18,United States,Logistics,unknown,Enterprise
+CUST_2368,2025-03-24,Unknown,Finance,unknown,SMB
+CUST_2369,2025-10-02,United States,Healthcare,201-500,Enterprise
+CUST_2370,2025-02-10,Unknown,E-Commerce,1-10,Mid-Market
+CUST_2371,2025-11-21,United States,Healthcare,500+,Enterprise
+CUST_2372,2025-10-26,United Kingdom,E-Commerce,1-10,Enterprise
+CUST_2373,2025-12-22,Canada,Saas,51-200,Enterprise
+CUST_2374,2025-05-06,United States,E-Commerce,201-500,SMB
+CUST_2375,2025-06-07,United States,E-Commerce,201-500,Mid-Market
+CUST_2376,2025-03-30,Unknown,Healthcare,51-200,Enterprise
+CUST_2377,2025-12-22,United Kingdom,Logistics,unknown,SMB
+CUST_2378,2025-02-15,United States,E-Commerce,unknown,Enterprise
+CUST_2379,2025-01-13,Canada,Saas,11-50,Enterprise
+CUST_2380,2025-01-12,Canada,Healthcare,500+,SMB
+CUST_2381,2025-02-17,United States,Finance,500+,Enterprise
+CUST_2382,2025-08-05,United States,Unknown,unknown,Mid-Market
+CUST_2383,2025-06-08,United States,Finance,unknown,Mid-Market
+CUST_2384,2025-04-16,United States,Logistics,11-50,Mid-Market
+CUST_2385,2025-07-15,United States,Unknown,500+,Enterprise
+CUST_2386,2025-09-20,United States,E-Commerce,1-10,Enterprise
+CUST_2387,2025-11-01,Unknown,Logistics,unknown,Enterprise
+CUST_2388,2025-10-10,United Kingdom,Finance,51-200,SMB
+CUST_2389,2025-02-08,Unknown,Finance,1-10,SMB
+CUST_2390,2025-08-15,United States,Saas,11-50,Mid-Market
+CUST_2391,2025-07-16,Canada,Unknown,11-50,Enterprise
+CUST_2392,2025-07-28,United States,E-Commerce,201-500,Enterprise
+CUST_2393,2025-11-02,Unknown,Healthcare,1-10,Enterprise
+CUST_2394,2025-02-04,Canada,Unknown,1-10,SMB
+CUST_2395,2025-10-04,Unknown,Saas,201-500,SMB
+CUST_2396,2025-08-02,United States,Healthcare,11-50,SMB
+CUST_2397,2025-03-06,Canada,Logistics,51-200,SMB
+CUST_2398,2025-04-27,United States,E-Commerce,51-200,Mid-Market
+CUST_2399,2025-05-21,Canada,Finance,1-10,SMB
+CUST_2400,2025-05-16,Canada,Finance,1-10,Enterprise
+CUST_2401,2025-05-30,United States,E-Commerce,11-50,Enterprise
+CUST_2402,2025-11-20,United States,Unknown,unknown,Mid-Market
+CUST_2403,2025-07-10,United States,Healthcare,51-200,SMB
+CUST_2404,2025-06-20,Canada,Finance,201-500,Mid-Market
+CUST_2405,2025-11-05,United States,Logistics,500+,Enterprise
+CUST_2406,2025-01-13,Unknown,Finance,1-10,Mid-Market
+CUST_2407,2025-01-05,United States,E-Commerce,1-10,SMB
+CUST_2408,2025-09-08,United States,Healthcare,11-50,Mid-Market
+CUST_2409,2025-08-20,United States,Saas,11-50,SMB
+CUST_2410,2025-09-23,United States,Finance,51-200,Enterprise
+CUST_2411,2025-12-31,United Kingdom,Finance,500+,SMB
+CUST_2412,2025-07-30,United States,Logistics,11-50,SMB
+CUST_2413,2025-07-01,Canada,Unknown,unknown,SMB
+CUST_2414,2025-10-04,Canada,Healthcare,unknown,SMB
+CUST_2415,2025-01-08,United States,Healthcare,11-50,SMB
+CUST_2416,2025-02-02,Unknown,Unknown,unknown,Mid-Market
+CUST_2417,2025-12-30,Unknown,E-Commerce,201-500,Mid-Market
+CUST_2418,2025-08-18,United States,Saas,51-200,SMB
+CUST_2419,2025-04-02,Canada,Logistics,unknown,Mid-Market
+CUST_2420,2025-08-18,United States,Saas,11-50,Mid-Market
+CUST_2421,2025-01-28,United States,Unknown,unknown,SMB
+CUST_2422,2025-10-01,Unknown,Saas,51-200,Enterprise
+CUST_2423,2025-09-14,Canada,E-Commerce,1-10,Mid-Market
+CUST_2424,2025-12-13,Unknown,Finance,11-50,Enterprise
+CUST_2425,2025-10-29,United States,Unknown,51-200,Mid-Market
+CUST_2426,2025-05-26,Canada,Saas,201-500,SMB
+CUST_2427,2025-03-05,United States,Saas,201-500,Mid-Market
+CUST_2428,2025-09-06,United Kingdom,Healthcare,500+,Mid-Market
+CUST_2429,2025-05-08,United States,E-Commerce,500+,Mid-Market
+CUST_2430,2025-09-29,United States,Logistics,500+,Mid-Market
+CUST_2431,2025-09-12,United Kingdom,E-Commerce,500+,Mid-Market
+CUST_2432,2025-04-07,United States,Healthcare,201-500,SMB
+CUST_2433,2025-05-18,Canada,Logistics,11-50,SMB
+CUST_2434,2025-10-17,Canada,Unknown,1-10,Mid-Market
+CUST_2435,2025-03-17,Unknown,Logistics,201-500,Mid-Market
+CUST_2436,2025-07-03,United Kingdom,Logistics,1-10,Mid-Market
+CUST_2437,2025-12-17,United States,Finance,unknown,SMB
+CUST_2438,2025-12-14,United States,Healthcare,1-10,Enterprise
+CUST_2439,2025-04-20,Unknown,E-Commerce,500+,Mid-Market
+CUST_2440,2025-12-14,Unknown,Finance,1-10,SMB
+CUST_2441,2025-04-20,Unknown,Logistics,201-500,Mid-Market
+CUST_2442,2025-04-13,United States,Healthcare,500+,SMB
+CUST_2443,2025-08-24,United States,E-Commerce,1-10,SMB
+CUST_2444,2025-02-04,Canada,Logistics,11-50,Enterprise
+CUST_2445,2025-01-04,United Kingdom,Healthcare,201-500,Enterprise
+CUST_2446,2025-02-11,Canada,Unknown,11-50,Mid-Market
+CUST_2447,2025-04-30,United Kingdom,Finance,201-500,Mid-Market
+CUST_2448,2025-12-24,Canada,Saas,11-50,SMB
+CUST_2449,2025-09-02,United States,E-Commerce,unknown,Mid-Market
+CUST_2450,2025-05-17,Unknown,Logistics,11-50,SMB
+CUST_2451,2025-10-18,Canada,Healthcare,51-200,Mid-Market
+CUST_2452,2025-08-29,Canada,E-Commerce,11-50,Enterprise
+CUST_2453,2025-05-31,United States,Finance,500+,Enterprise
+CUST_2454,2025-10-04,United Kingdom,Healthcare,11-50,SMB
+CUST_2455,2025-05-19,Canada,Unknown,201-500,Enterprise
+CUST_2456,2025-07-05,United States,Healthcare,201-500,SMB
+CUST_2457,2025-09-19,United Kingdom,Finance,11-50,Enterprise
+CUST_2458,2025-08-03,Unknown,Finance,51-200,Enterprise
+CUST_2459,2025-10-14,United States,Unknown,unknown,Enterprise
+CUST_2460,2025-02-07,United States,Finance,201-500,Mid-Market
+CUST_2461,2025-06-18,Canada,Saas,201-500,Enterprise
+CUST_2462,2025-09-29,Unknown,Finance,201-500,Enterprise
+CUST_2463,2025-10-17,United Kingdom,Saas,11-50,Mid-Market
+CUST_2464,2025-04-10,United States,Unknown,201-500,Enterprise
+CUST_2465,2025-05-17,United States,Finance,1-10,Mid-Market
+CUST_2466,2025-08-08,United Kingdom,E-Commerce,1-10,Enterprise
+CUST_2467,2025-03-10,Canada,Unknown,500+,Mid-Market
+CUST_2468,2025-11-07,United States,Finance,201-500,Enterprise
+CUST_2469,2025-11-09,Unknown,Saas,1-10,Mid-Market
+CUST_2470,2025-07-09,United States,Finance,11-50,SMB
+CUST_2471,2025-08-13,Canada,E-Commerce,1-10,Mid-Market
+CUST_2472,2025-04-27,United States,Logistics,unknown,SMB
+CUST_2473,2025-01-16,Unknown,Unknown,1-10,Enterprise
+CUST_2474,2025-08-10,Canada,Finance,1-10,SMB
+CUST_2475,2025-09-28,Canada,Unknown,51-200,Mid-Market
+CUST_2476,2025-12-29,United States,Saas,1-10,Mid-Market
+CUST_2477,2025-02-25,Canada,Unknown,unknown,SMB
+CUST_2478,2025-01-04,United States,Finance,1-10,Enterprise
+CUST_2479,2025-12-24,United Kingdom,Logistics,unknown,SMB
+CUST_2480,2025-04-27,United States,Unknown,1-10,Enterprise
+CUST_2481,2025-03-22,United States,Saas,500+,Enterprise
+CUST_2482,2025-10-06,United States,Saas,11-50,SMB
+CUST_2483,2025-03-29,United Kingdom,Healthcare,unknown,Mid-Market
+CUST_2484,2025-02-05,Unknown,Logistics,51-200,SMB
+CUST_2485,2025-07-11,Canada,Saas,11-50,Mid-Market
+CUST_2486,2025-02-24,United Kingdom,Unknown,500+,SMB
+CUST_2487,2025-06-25,United Kingdom,Logistics,500+,SMB
+CUST_2488,2025-12-18,Canada,Saas,500+,Mid-Market
+CUST_2489,2025-10-20,United States,Saas,11-50,Enterprise
+CUST_2490,2025-08-28,Canada,Finance,500+,Mid-Market
+CUST_2491,2025-01-02,United Kingdom,Finance,unknown,Mid-Market
+CUST_2492,2025-07-30,United Kingdom,Saas,201-500,Mid-Market
+CUST_2493,2025-03-14,United Kingdom,Healthcare,201-500,Enterprise
+CUST_2494,2025-04-15,Unknown,Unknown,1-10,Enterprise
+CUST_2495,2025-03-31,United Kingdom,Healthcare,1-10,Mid-Market
+CUST_2496,2025-05-20,United States,Saas,11-50,Enterprise
+CUST_2497,2025-07-06,United Kingdom,E-Commerce,201-500,Mid-Market
+CUST_2498,2025-04-07,Unknown,Logistics,unknown,Mid-Market
+CUST_2499,2025-02-12,United States,Logistics,1-10,Mid-Market
+CUST_2500,2025-07-24,United Kingdom,Finance,500+,Mid-Market
+CUST_2501,2025-11-23,United Kingdom,Unknown,unknown,Mid-Market
+CUST_2502,2025-07-29,Canada,Logistics,unknown,Mid-Market
+CUST_2503,2025-01-11,United Kingdom,Finance,51-200,SMB
+CUST_2504,2025-08-05,Canada,Saas,unknown,Mid-Market
+CUST_2505,2025-09-12,United States,Logistics,1-10,Enterprise
+CUST_2506,2025-12-14,Canada,E-Commerce,201-500,Enterprise
+CUST_2507,2025-07-13,Unknown,Healthcare,unknown,Mid-Market
+CUST_2508,2025-05-14,Canada,Saas,1-10,SMB
+CUST_2509,2025-11-30,United States,Healthcare,500+,Mid-Market
+CUST_2510,2025-08-08,United States,Unknown,51-200,Enterprise
+CUST_2511,2025-02-20,United States,Unknown,51-200,Enterprise
+CUST_2512,2025-03-28,Unknown,Logistics,1-10,Mid-Market
+CUST_2513,2025-07-05,Unknown,E-Commerce,500+,Mid-Market
+CUST_2514,2025-10-08,Canada,Unknown,1-10,Mid-Market
+CUST_2515,2025-05-03,Unknown,Unknown,51-200,Mid-Market
+CUST_2516,2025-09-22,Canada,E-Commerce,1-10,Enterprise
+CUST_2517,2025-11-19,United Kingdom,Unknown,500+,SMB
+CUST_2518,2025-02-08,Canada,E-Commerce,1-10,Enterprise
+CUST_2519,2025-03-29,Unknown,Logistics,51-200,SMB
+CUST_2520,2025-05-09,United States,Saas,51-200,Enterprise
+CUST_2521,2025-09-13,Unknown,E-Commerce,51-200,Enterprise
+CUST_2522,2025-04-26,United Kingdom,E-Commerce,unknown,Mid-Market
+CUST_2523,2025-10-29,United Kingdom,Healthcare,1-10,SMB
+CUST_2524,2025-11-24,Unknown,Healthcare,11-50,Enterprise
+CUST_2525,2025-05-31,Canada,E-Commerce,51-200,SMB
+CUST_2526,2025-09-24,United States,E-Commerce,201-500,Mid-Market
+CUST_2527,2025-11-23,Canada,Unknown,51-200,Mid-Market
+CUST_2528,2025-10-29,United States,Finance,1-10,Mid-Market
+CUST_2529,2025-02-23,United States,Logistics,11-50,Enterprise
+CUST_2530,2025-07-29,Unknown,Healthcare,11-50,Mid-Market
+CUST_2531,2025-03-26,Unknown,Saas,51-200,SMB
+CUST_2532,2025-03-08,United Kingdom,Healthcare,51-200,SMB
+CUST_2533,2025-08-23,United Kingdom,E-Commerce,unknown,Enterprise
+CUST_2534,2025-02-23,Canada,E-Commerce,201-500,Enterprise
+CUST_2535,2025-12-30,Unknown,Finance,51-200,Mid-Market
+CUST_2536,2025-01-29,United Kingdom,Finance,11-50,Mid-Market
+CUST_2537,2025-10-30,Unknown,E-Commerce,201-500,SMB
+CUST_2538,2025-06-30,Unknown,Saas,51-200,SMB
+CUST_2539,2025-01-04,United States,Logistics,201-500,Mid-Market
+CUST_2540,2025-05-21,United States,Saas,11-50,SMB
+CUST_2541,2025-04-09,United Kingdom,Healthcare,51-200,Enterprise
+CUST_2542,2025-08-02,Unknown,Healthcare,500+,SMB
+CUST_2543,2025-04-07,Canada,E-Commerce,51-200,Mid-Market
+CUST_2544,2025-04-23,Canada,Logistics,201-500,Mid-Market
+CUST_2545,2025-08-14,Unknown,Finance,11-50,Mid-Market
+CUST_2546,2025-06-11,United States,Finance,unknown,Enterprise
+CUST_2547,2025-10-06,United States,E-Commerce,51-200,SMB
+CUST_2548,2025-01-22,Canada,Healthcare,201-500,Enterprise
+CUST_2549,2025-12-17,Canada,Logistics,11-50,Mid-Market
+CUST_2550,2025-02-18,United States,Healthcare,201-500,SMB
+CUST_2551,2025-05-06,Canada,Healthcare,500+,Mid-Market
+CUST_2552,2025-03-01,United Kingdom,E-Commerce,1-10,Mid-Market
+CUST_2553,2025-02-01,Unknown,Healthcare,1-10,SMB
+CUST_2554,2025-05-21,United States,E-Commerce,1-10,Mid-Market
+CUST_2555,2025-06-27,Canada,Saas,51-200,Mid-Market
+CUST_2556,2025-09-25,United States,Healthcare,51-200,Enterprise
+CUST_2557,2025-07-16,United Kingdom,Finance,11-50,SMB
+CUST_2558,2025-12-11,Canada,Saas,500+,SMB
+CUST_2559,2025-08-04,Unknown,Healthcare,11-50,SMB
+CUST_2560,2025-07-11,United Kingdom,Healthcare,1-10,Mid-Market
+CUST_2561,2025-03-20,United States,Unknown,201-500,SMB
+CUST_2562,2025-09-03,United States,Healthcare,201-500,Mid-Market
+CUST_2563,2025-06-05,Canada,Saas,500+,SMB
+CUST_2564,2025-06-28,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_2565,2025-07-20,United States,Logistics,500+,Mid-Market
+CUST_2566,2025-02-06,Canada,Logistics,unknown,SMB
+CUST_2567,2025-03-21,United States,Logistics,500+,SMB
+CUST_2568,2025-03-23,United Kingdom,Unknown,201-500,SMB
+CUST_2569,2025-05-11,Unknown,E-Commerce,11-50,SMB
+CUST_2570,2025-08-14,Unknown,Saas,11-50,Mid-Market
+CUST_2571,2025-09-24,Canada,E-Commerce,500+,Mid-Market
+CUST_2572,2025-11-26,United States,Unknown,unknown,Enterprise
+CUST_2573,2025-05-07,Unknown,E-Commerce,1-10,SMB
+CUST_2574,2025-07-09,Unknown,Unknown,11-50,Mid-Market
+CUST_2575,2025-10-22,United Kingdom,E-Commerce,1-10,Enterprise
+CUST_2576,2025-06-07,United Kingdom,Finance,500+,SMB
+CUST_2577,2025-07-28,Unknown,E-Commerce,11-50,Mid-Market
+CUST_2578,2025-06-04,United States,E-Commerce,51-200,Mid-Market
+CUST_2579,2025-10-22,Unknown,Saas,11-50,Mid-Market
+CUST_2580,2025-05-31,United States,Saas,11-50,SMB
+CUST_2581,2025-07-30,United States,E-Commerce,11-50,Mid-Market
+CUST_2582,2025-11-01,United States,Healthcare,51-200,SMB
+CUST_2583,2025-12-12,United States,Finance,201-500,Enterprise
+CUST_2584,2025-06-13,Canada,E-Commerce,unknown,Mid-Market
+CUST_2585,2025-04-30,United States,E-Commerce,1-10,Mid-Market
+CUST_2586,2025-08-10,United States,Logistics,500+,Enterprise
+CUST_2587,2025-10-08,United Kingdom,Logistics,11-50,SMB
+CUST_2588,2025-05-21,United States,E-Commerce,201-500,SMB
+CUST_2589,2025-03-17,United Kingdom,Finance,201-500,Mid-Market
+CUST_2590,2025-08-02,Canada,Finance,1-10,Mid-Market
+CUST_2591,2025-03-14,Unknown,E-Commerce,51-200,Mid-Market
+CUST_2592,2025-10-04,Unknown,Logistics,11-50,Mid-Market
+CUST_2593,2025-07-05,United States,E-Commerce,unknown,Mid-Market
+CUST_2594,2025-11-13,United States,Healthcare,51-200,SMB
+CUST_2595,2025-08-14,Canada,Unknown,500+,Mid-Market
+CUST_2596,2025-04-21,Canada,Finance,11-50,Mid-Market
+CUST_2597,2025-01-10,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_2598,2025-05-10,United Kingdom,Finance,51-200,Mid-Market
+CUST_2599,2025-01-25,United Kingdom,Healthcare,unknown,SMB
+CUST_2600,2025-08-29,United Kingdom,E-Commerce,unknown,Mid-Market
+CUST_2601,2025-08-20,United Kingdom,Finance,51-200,Mid-Market
+CUST_2602,2025-04-08,Unknown,Finance,1-10,Enterprise
+CUST_2603,2025-10-19,United Kingdom,Healthcare,1-10,Mid-Market
+CUST_2604,2025-11-17,United States,Saas,51-200,SMB
+CUST_2605,2025-04-15,United Kingdom,Logistics,1-10,Mid-Market
+CUST_2606,2025-04-22,United States,E-Commerce,unknown,Enterprise
+CUST_2607,2025-07-24,Unknown,Logistics,unknown,Mid-Market
+CUST_2608,2025-03-19,United Kingdom,Unknown,unknown,SMB
+CUST_2609,2025-02-25,Canada,E-Commerce,51-200,SMB
+CUST_2610,2025-07-25,Unknown,Unknown,11-50,Mid-Market
+CUST_2611,2025-07-30,Canada,Unknown,unknown,Mid-Market
+CUST_2612,2025-03-03,Unknown,Saas,201-500,SMB
+CUST_2613,2025-11-19,United States,Finance,1-10,SMB
+CUST_2614,2025-07-27,United States,E-Commerce,201-500,SMB
+CUST_2615,2025-06-25,Unknown,Healthcare,201-500,Mid-Market
+CUST_2616,2025-12-02,Canada,E-Commerce,500+,Mid-Market
+CUST_2617,2025-05-23,Canada,Logistics,unknown,Mid-Market
+CUST_2618,2025-08-19,United States,E-Commerce,51-200,Enterprise
+CUST_2619,2025-07-30,United States,Logistics,500+,Enterprise
+CUST_2620,2025-09-19,United States,Logistics,500+,SMB
+CUST_2621,2025-06-28,Unknown,Logistics,unknown,Mid-Market
+CUST_2622,2025-09-03,Canada,Healthcare,11-50,Mid-Market
+CUST_2623,2025-09-03,United States,Finance,51-200,Mid-Market
+CUST_2624,2025-07-15,Unknown,Saas,unknown,Enterprise
+CUST_2625,2025-02-23,United States,E-Commerce,500+,SMB
+CUST_2626,2025-09-14,Canada,Saas,1-10,Mid-Market
+CUST_2627,2025-09-05,Unknown,Saas,51-200,SMB
+CUST_2628,2025-05-05,Canada,Healthcare,1-10,Enterprise
+CUST_2629,2025-06-04,Unknown,E-Commerce,11-50,Enterprise
+CUST_2630,2025-05-23,Canada,Healthcare,51-200,SMB
+CUST_2631,2025-11-28,United States,Saas,201-500,SMB
+CUST_2632,2025-12-13,Unknown,E-Commerce,1-10,Enterprise
+CUST_2633,2025-06-08,Canada,Finance,51-200,Enterprise
+CUST_2634,2025-10-28,Unknown,Unknown,500+,SMB
+CUST_2635,2025-05-25,United States,E-Commerce,unknown,SMB
+CUST_2636,2025-06-16,United States,Finance,unknown,Mid-Market
+CUST_2637,2025-11-21,United States,E-Commerce,500+,Enterprise
+CUST_2638,2025-05-14,United Kingdom,Saas,unknown,Mid-Market
+CUST_2639,2025-08-15,United States,Logistics,unknown,Enterprise
+CUST_2640,2025-11-03,United Kingdom,Unknown,51-200,SMB
+CUST_2641,2025-04-06,Canada,Finance,unknown,Mid-Market
+CUST_2642,2025-06-18,Canada,Finance,500+,Mid-Market
+CUST_2643,2025-04-11,United States,Saas,11-50,Mid-Market
+CUST_2644,2025-08-08,United States,E-Commerce,11-50,SMB
+CUST_2645,2025-05-03,Unknown,Healthcare,500+,Enterprise
+CUST_2646,2025-06-03,Canada,Logistics,1-10,Enterprise
+CUST_2647,2025-09-23,United States,Finance,1-10,Mid-Market
+CUST_2648,2025-08-05,United States,Healthcare,51-200,SMB
+CUST_2649,2025-10-06,Unknown,E-Commerce,51-200,SMB
+CUST_2650,2025-03-22,Canada,Finance,11-50,Enterprise
+CUST_2651,2025-04-23,Unknown,Saas,201-500,Mid-Market
+CUST_2652,2025-08-19,Unknown,Logistics,1-10,SMB
+CUST_2653,2025-06-26,United States,Logistics,1-10,SMB
+CUST_2654,2025-02-11,United Kingdom,Healthcare,1-10,Enterprise
+CUST_2655,2025-08-11,United Kingdom,Finance,201-500,Mid-Market
+CUST_2656,2025-12-18,Unknown,E-Commerce,1-10,SMB
+CUST_2657,2025-12-27,Unknown,E-Commerce,11-50,Enterprise
+CUST_2658,2025-07-01,United States,Finance,unknown,Mid-Market
+CUST_2659,2025-01-09,United Kingdom,Healthcare,1-10,Mid-Market
+CUST_2660,2025-10-10,Unknown,Finance,51-200,Mid-Market
+CUST_2661,2025-03-12,United Kingdom,E-Commerce,201-500,SMB
+CUST_2662,2025-11-11,United States,Healthcare,1-10,SMB
+CUST_2663,2025-09-17,United States,Unknown,201-500,Mid-Market
+CUST_2664,2025-06-10,United States,Healthcare,1-10,Enterprise
+CUST_2665,2025-02-17,Canada,Logistics,unknown,SMB
+CUST_2666,2025-03-09,Unknown,Healthcare,51-200,SMB
+CUST_2667,2025-08-17,United States,Finance,51-200,Mid-Market
+CUST_2668,2025-11-15,Canada,Finance,11-50,Mid-Market
+CUST_2669,2025-07-14,United States,Saas,500+,SMB
+CUST_2670,2025-09-06,Unknown,Finance,1-10,Mid-Market
+CUST_2671,2025-12-15,Canada,Unknown,11-50,SMB
+CUST_2672,2025-01-15,Canada,Unknown,500+,Enterprise
+CUST_2673,2025-10-10,United States,E-Commerce,1-10,Mid-Market
+CUST_2674,2025-12-10,United Kingdom,Healthcare,500+,SMB
+CUST_2675,2025-12-09,United States,Finance,1-10,SMB
+CUST_2676,2025-11-18,United States,Saas,51-200,SMB
+CUST_2677,2025-02-07,United Kingdom,Healthcare,1-10,SMB
+CUST_2678,2025-03-08,Unknown,Unknown,201-500,SMB
+CUST_2679,2025-03-15,Unknown,Healthcare,unknown,Mid-Market
+CUST_2680,2025-11-06,Canada,Finance,500+,Enterprise
+CUST_2681,2025-04-01,United States,Logistics,51-200,Mid-Market
+CUST_2682,2025-05-24,United States,Unknown,1-10,SMB
+CUST_2683,2025-08-08,Canada,Logistics,201-500,Enterprise
+CUST_2684,2025-03-12,Canada,Saas,1-10,SMB
+CUST_2685,2025-12-18,Canada,E-Commerce,11-50,SMB
+CUST_2686,2025-06-15,United States,Finance,11-50,Enterprise
+CUST_2687,2025-07-12,United States,E-Commerce,500+,Mid-Market
+CUST_2688,2025-10-13,Canada,Logistics,unknown,Enterprise
+CUST_2689,2025-02-05,United States,Logistics,51-200,Mid-Market
+CUST_2690,2025-08-11,United Kingdom,Saas,1-10,Enterprise
+CUST_2691,2025-05-28,United Kingdom,Healthcare,unknown,Enterprise
+CUST_2692,2025-09-18,United States,Unknown,1-10,Enterprise
+CUST_2693,2025-09-29,United States,Finance,51-200,Mid-Market
+CUST_2694,2025-01-21,United States,Finance,51-200,SMB
+CUST_2695,2025-10-22,United Kingdom,Unknown,unknown,Enterprise
+CUST_2696,2025-02-07,Unknown,Finance,51-200,Enterprise
+CUST_2697,2025-08-16,Canada,Unknown,1-10,SMB
+CUST_2698,2025-06-06,Canada,Saas,11-50,SMB
+CUST_2699,2025-07-04,United Kingdom,E-Commerce,500+,Mid-Market
+CUST_2700,2025-02-25,United Kingdom,Saas,1-10,Mid-Market
+CUST_2701,2025-07-14,United States,Saas,11-50,Mid-Market
+CUST_2702,2025-08-16,Unknown,Finance,51-200,SMB
+CUST_2703,2025-07-09,Canada,E-Commerce,11-50,Enterprise
+CUST_2704,2025-01-28,United States,Finance,1-10,SMB
+CUST_2705,2025-10-06,Unknown,Saas,11-50,SMB
+CUST_2706,2025-07-20,United States,Unknown,1-10,Enterprise
+CUST_2707,2025-05-03,United States,Saas,unknown,SMB
+CUST_2708,2025-07-28,United States,Finance,1-10,Mid-Market
+CUST_2709,2025-02-24,Unknown,Finance,201-500,SMB
+CUST_2710,2025-03-05,Canada,Logistics,500+,Mid-Market
+CUST_2711,2025-12-17,United States,Saas,51-200,SMB
+CUST_2712,2025-10-16,United Kingdom,Unknown,1-10,SMB
+CUST_2713,2025-10-05,United States,Finance,unknown,Enterprise
+CUST_2714,2025-06-02,Canada,Saas,unknown,Mid-Market
+CUST_2715,2025-06-20,Unknown,Finance,500+,Mid-Market
+CUST_2716,2025-08-11,United Kingdom,E-Commerce,1-10,Mid-Market
+CUST_2717,2025-10-07,United States,Healthcare,11-50,Mid-Market
+CUST_2718,2025-07-16,Canada,Unknown,51-200,Enterprise
+CUST_2719,2025-04-26,Unknown,Logistics,500+,Mid-Market
+CUST_2720,2025-11-03,Unknown,Logistics,51-200,Mid-Market
+CUST_2721,2025-04-26,United States,Finance,unknown,SMB
+CUST_2722,2025-04-08,Unknown,Healthcare,unknown,Mid-Market
+CUST_2723,2025-08-06,Canada,Saas,unknown,SMB
+CUST_2724,2025-11-20,United States,Logistics,11-50,SMB
+CUST_2725,2025-01-20,United Kingdom,Saas,51-200,Enterprise
+CUST_2726,2025-11-23,United States,Logistics,201-500,Mid-Market
+CUST_2727,2025-09-21,Unknown,E-Commerce,11-50,Enterprise
+CUST_2728,2025-07-06,United States,Saas,1-10,Mid-Market
+CUST_2729,2025-11-23,Unknown,Finance,51-200,Enterprise
+CUST_2730,2025-10-28,United States,Finance,11-50,Enterprise
+CUST_2731,2025-12-05,United States,E-Commerce,51-200,SMB
+CUST_2732,2025-06-05,Unknown,Unknown,1-10,Enterprise
+CUST_2733,2025-12-31,Canada,Unknown,unknown,Enterprise
+CUST_2734,2025-02-13,United Kingdom,E-Commerce,11-50,Mid-Market
+CUST_2735,2025-03-25,United Kingdom,E-Commerce,11-50,Enterprise
+CUST_2736,2025-06-07,Canada,Unknown,unknown,Enterprise
+CUST_2737,2025-01-15,United States,Healthcare,1-10,Mid-Market
+CUST_2738,2025-03-18,United States,E-Commerce,201-500,Mid-Market
+CUST_2739,2025-04-25,United States,Saas,unknown,SMB
+CUST_2740,2025-07-26,United States,Unknown,201-500,SMB
+CUST_2741,2025-06-28,Canada,Logistics,unknown,Enterprise
+CUST_2742,2025-03-12,Canada,Healthcare,500+,Mid-Market
+CUST_2743,2025-04-04,United States,Healthcare,201-500,Mid-Market
+CUST_2744,2025-08-19,Unknown,Unknown,11-50,Mid-Market
+CUST_2745,2025-12-28,Unknown,Saas,51-200,Mid-Market
+CUST_2746,2025-03-02,United Kingdom,Saas,500+,Mid-Market
+CUST_2747,2025-12-10,United States,Healthcare,11-50,Mid-Market
+CUST_2748,2025-07-25,Canada,Unknown,1-10,SMB
+CUST_2749,2025-03-13,Unknown,Saas,unknown,Mid-Market
+CUST_2750,2025-10-15,United States,Saas,11-50,Mid-Market
+CUST_2751,2025-10-16,Unknown,Logistics,51-200,Mid-Market
+CUST_2752,2025-08-13,Canada,Unknown,11-50,Enterprise
+CUST_2753,2025-08-07,United States,Logistics,51-200,SMB
+CUST_2754,2025-09-25,Unknown,Logistics,11-50,Enterprise
+CUST_2755,2025-10-07,Canada,Logistics,11-50,SMB
+CUST_2756,2025-10-19,Canada,Finance,unknown,SMB
+CUST_2757,2025-12-23,United States,Unknown,11-50,Mid-Market
+CUST_2758,2025-02-03,Canada,Healthcare,1-10,Mid-Market
+CUST_2759,2025-02-11,United States,Saas,51-200,Enterprise
+CUST_2760,2025-07-01,United Kingdom,Saas,11-50,Enterprise
+CUST_2761,2025-06-28,Canada,Unknown,500+,Mid-Market
+CUST_2762,2025-04-13,United Kingdom,Unknown,201-500,SMB
+CUST_2763,2025-10-13,United States,Saas,51-200,Mid-Market
+CUST_2764,2025-03-29,Canada,Logistics,201-500,Mid-Market
+CUST_2765,2025-08-29,United States,Healthcare,unknown,Enterprise
+CUST_2766,2025-05-11,United States,E-Commerce,unknown,SMB
+CUST_2767,2025-06-15,Canada,Unknown,201-500,Mid-Market
+CUST_2768,2025-03-10,Canada,Finance,201-500,SMB
+CUST_2769,2025-10-08,United Kingdom,Unknown,51-200,Enterprise
+CUST_2770,2025-08-03,Canada,Logistics,201-500,SMB
+CUST_2771,2025-12-13,Unknown,Unknown,500+,SMB
+CUST_2772,2025-07-04,United Kingdom,Finance,201-500,SMB
+CUST_2773,2025-03-19,Canada,Logistics,201-500,Mid-Market
+CUST_2774,2025-03-23,United States,E-Commerce,unknown,Enterprise
+CUST_2775,2025-02-20,Unknown,Logistics,unknown,SMB
+CUST_2776,2025-04-20,Canada,Unknown,51-200,SMB
+CUST_2777,2025-10-14,United States,Finance,1-10,SMB
+CUST_2778,2025-01-03,United States,Saas,500+,SMB
+CUST_2779,2025-03-05,Canada,Finance,51-200,Enterprise
+CUST_2780,2025-08-07,United Kingdom,Finance,unknown,Enterprise
+CUST_2781,2025-12-19,United Kingdom,Finance,1-10,Enterprise
+CUST_2782,2025-08-10,United States,Saas,201-500,Mid-Market
+CUST_2783,2025-02-16,Unknown,E-Commerce,1-10,Mid-Market
+CUST_2784,2025-03-25,United States,Logistics,201-500,Mid-Market
+CUST_2785,2025-10-11,Unknown,Healthcare,1-10,Enterprise
+CUST_2786,2025-10-28,Canada,Healthcare,unknown,Enterprise
+CUST_2787,2025-02-08,United States,Saas,51-200,SMB
+CUST_2788,2025-07-29,United States,Saas,51-200,Mid-Market
+CUST_2789,2025-06-15,United States,Finance,1-10,Mid-Market
+CUST_2790,2025-04-16,United Kingdom,Finance,51-200,Mid-Market
+CUST_2791,2025-08-06,Unknown,Logistics,11-50,SMB
+CUST_2792,2025-01-12,United States,Saas,201-500,Enterprise
+CUST_2793,2025-04-21,United States,Finance,unknown,SMB
+CUST_2794,2025-08-09,United States,Unknown,51-200,Mid-Market
+CUST_2795,2025-05-27,Unknown,Logistics,201-500,Enterprise
+CUST_2796,2025-02-23,United Kingdom,Logistics,201-500,Mid-Market
+CUST_2797,2025-03-20,Canada,E-Commerce,1-10,Enterprise
+CUST_2798,2025-07-10,Canada,Logistics,51-200,SMB
+CUST_2799,2025-01-11,Unknown,Saas,500+,Mid-Market
+CUST_2800,2025-02-08,United States,Healthcare,1-10,Mid-Market
+CUST_2801,2025-05-12,United States,Logistics,201-500,Enterprise
+CUST_2802,2025-06-18,United States,Finance,unknown,Mid-Market
+CUST_2803,2025-11-24,Canada,Logistics,500+,Mid-Market
+CUST_2804,2025-09-11,Unknown,Saas,unknown,Enterprise
+CUST_2805,2025-11-15,Canada,E-Commerce,11-50,Mid-Market
+CUST_2806,2025-08-26,United Kingdom,Healthcare,201-500,Enterprise
+CUST_2807,2025-02-17,United Kingdom,Logistics,1-10,SMB
+CUST_2808,2025-07-16,United Kingdom,Saas,201-500,Mid-Market
+CUST_2809,2025-01-24,Unknown,E-Commerce,1-10,Mid-Market
+CUST_2810,2025-01-29,United States,Saas,500+,Mid-Market
+CUST_2811,2025-12-11,United States,Saas,1-10,Mid-Market
+CUST_2812,2025-12-21,Unknown,Saas,11-50,Enterprise
+CUST_2813,2025-08-14,United States,Healthcare,11-50,Mid-Market
+CUST_2814,2025-10-21,Unknown,Healthcare,51-200,SMB
+CUST_2815,2025-02-27,United Kingdom,Unknown,11-50,Mid-Market
+CUST_2816,2025-08-12,United States,E-Commerce,11-50,Mid-Market
+CUST_2817,2025-07-30,United States,Logistics,500+,Enterprise
+CUST_2818,2025-03-10,Unknown,E-Commerce,201-500,SMB
+CUST_2819,2025-12-08,Canada,Saas,11-50,Enterprise
+CUST_2820,2025-04-24,Canada,E-Commerce,51-200,Mid-Market
+CUST_2821,2025-07-07,Unknown,Finance,500+,Enterprise
+CUST_2822,2025-05-24,United States,E-Commerce,11-50,Enterprise
+CUST_2823,2025-06-04,United States,Healthcare,500+,SMB
+CUST_2824,2025-07-29,United States,E-Commerce,1-10,Enterprise
+CUST_2825,2025-07-23,Canada,E-Commerce,51-200,Enterprise
+CUST_2826,2025-06-07,United States,Logistics,201-500,Enterprise
+CUST_2827,2025-12-09,United Kingdom,Finance,51-200,Enterprise
+CUST_2828,2025-08-18,Unknown,Saas,1-10,Enterprise
+CUST_2829,2025-12-12,United Kingdom,Saas,unknown,SMB
+CUST_2830,2025-04-26,United States,Saas,1-10,Mid-Market
+CUST_2831,2025-01-14,Unknown,E-Commerce,unknown,Enterprise
+CUST_2832,2025-11-04,United States,Logistics,unknown,Mid-Market
+CUST_2833,2025-05-09,United States,Healthcare,1-10,SMB
+CUST_2834,2025-04-19,Unknown,Logistics,11-50,Mid-Market
+CUST_2835,2025-12-04,United States,Finance,1-10,Mid-Market
+CUST_2836,2025-12-04,United Kingdom,Saas,201-500,Mid-Market
+CUST_2837,2025-05-17,United States,Logistics,11-50,Mid-Market
+CUST_2838,2025-06-24,United States,Logistics,1-10,Mid-Market
+CUST_2839,2025-01-30,Canada,Healthcare,1-10,Enterprise
+CUST_2840,2025-07-08,United States,Saas,51-200,Mid-Market
+CUST_2841,2025-01-29,Canada,Finance,unknown,Enterprise
+CUST_2842,2025-01-06,United States,Unknown,11-50,Enterprise
+CUST_2843,2025-06-26,United States,Healthcare,11-50,Enterprise
+CUST_2844,2025-06-04,Canada,Saas,1-10,Mid-Market
+CUST_2845,2025-08-31,United Kingdom,Saas,11-50,Mid-Market
+CUST_2846,2025-10-31,United States,Finance,1-10,Enterprise
+CUST_2847,2025-01-29,United States,Healthcare,500+,Mid-Market
+CUST_2848,2025-02-09,United States,Saas,51-200,Mid-Market
+CUST_2849,2025-10-03,Canada,Healthcare,unknown,SMB
+CUST_2850,2025-02-01,Unknown,Healthcare,11-50,Enterprise
+CUST_2851,2025-05-16,United States,Logistics,11-50,Mid-Market
+CUST_2852,2025-06-15,Unknown,Saas,1-10,SMB
+CUST_2853,2025-09-03,Unknown,Healthcare,11-50,SMB
+CUST_2854,2025-01-06,United Kingdom,Logistics,500+,SMB
+CUST_2855,2025-12-22,United Kingdom,Finance,51-200,Mid-Market
+CUST_2856,2025-11-17,Canada,Healthcare,11-50,Enterprise
+CUST_2857,2025-08-29,United Kingdom,Saas,500+,SMB
+CUST_2858,2025-05-22,Canada,Saas,unknown,Mid-Market
+CUST_2859,2025-08-30,United States,Logistics,51-200,Mid-Market
+CUST_2860,2025-11-26,United Kingdom,Logistics,unknown,SMB
+CUST_2861,2025-01-04,United States,Logistics,51-200,SMB
+CUST_2862,2025-08-31,United Kingdom,Saas,1-10,Enterprise
+CUST_2863,2025-01-07,United States,Finance,201-500,Mid-Market
+CUST_2864,2025-08-18,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_2865,2025-08-20,Unknown,Logistics,500+,Enterprise
+CUST_2866,2025-02-21,United States,E-Commerce,500+,Mid-Market
+CUST_2867,2025-10-26,United Kingdom,Finance,500+,Mid-Market
+CUST_2868,2025-09-23,Canada,Saas,51-200,SMB
+CUST_2869,2025-11-13,United States,Unknown,201-500,SMB
+CUST_2870,2025-06-25,United States,E-Commerce,1-10,Mid-Market
+CUST_2871,2025-07-11,United States,Finance,51-200,SMB
+CUST_2872,2025-03-30,Canada,Finance,11-50,SMB
+CUST_2873,2025-01-19,United Kingdom,Finance,1-10,SMB
+CUST_2874,2025-02-22,Canada,Saas,500+,Mid-Market
+CUST_2875,2025-04-17,Unknown,Finance,500+,SMB
+CUST_2876,2025-02-23,Unknown,Healthcare,11-50,SMB
+CUST_2877,2025-07-04,Canada,Logistics,51-200,SMB
+CUST_2878,2025-06-30,Unknown,Saas,51-200,Mid-Market
+CUST_2879,2025-08-14,United Kingdom,E-Commerce,1-10,Mid-Market
+CUST_2880,2025-01-06,Canada,Healthcare,1-10,SMB
+CUST_2881,2025-11-25,United States,Saas,1-10,SMB
+CUST_2882,2025-10-18,United States,Unknown,51-200,SMB
+CUST_2883,2025-04-27,Unknown,Logistics,11-50,Enterprise
+CUST_2884,2025-01-14,Canada,Unknown,unknown,SMB
+CUST_2885,2025-05-28,Canada,Logistics,201-500,Enterprise
+CUST_2886,2025-03-11,United Kingdom,Logistics,1-10,Mid-Market
+CUST_2887,2025-12-21,United States,Healthcare,51-200,SMB
+CUST_2888,2025-09-20,Unknown,Unknown,500+,Mid-Market
+CUST_2889,2025-02-22,Canada,Saas,51-200,Mid-Market
+CUST_2890,2025-09-11,Canada,Saas,201-500,Mid-Market
+CUST_2891,2025-06-20,Canada,Unknown,201-500,Mid-Market
+CUST_2892,2025-02-13,United Kingdom,Saas,51-200,Enterprise
+CUST_2893,2025-09-25,United States,Healthcare,unknown,SMB
+CUST_2894,2025-04-15,United Kingdom,Saas,unknown,Enterprise
+CUST_2895,2025-02-08,Unknown,Unknown,201-500,SMB
+CUST_2896,2025-01-14,United Kingdom,Saas,201-500,Mid-Market
+CUST_2897,2025-12-01,United Kingdom,Healthcare,11-50,Enterprise
+CUST_2898,2025-03-16,United Kingdom,Unknown,1-10,SMB
+CUST_2899,2025-06-09,United Kingdom,Finance,201-500,SMB
+CUST_2900,2025-06-14,Canada,E-Commerce,unknown,Enterprise
+CUST_2901,2025-12-22,Unknown,Finance,1-10,SMB
+CUST_2902,2025-08-08,United Kingdom,E-Commerce,11-50,Mid-Market
+CUST_2903,2025-08-30,United Kingdom,Finance,unknown,Mid-Market
+CUST_2904,2025-11-18,United States,Unknown,unknown,Enterprise
+CUST_2905,2025-12-08,United Kingdom,Finance,51-200,Mid-Market
+CUST_2906,2025-08-27,United Kingdom,Unknown,unknown,Mid-Market
+CUST_2907,2025-06-01,United Kingdom,Saas,51-200,Enterprise
+CUST_2908,2025-07-14,United Kingdom,Finance,500+,Enterprise
+CUST_2909,2025-11-13,United States,Finance,unknown,Mid-Market
+CUST_2910,2025-09-18,Unknown,E-Commerce,unknown,SMB
+CUST_2911,2025-06-12,United States,Unknown,201-500,Enterprise
+CUST_2912,2025-05-22,Canada,Healthcare,11-50,SMB
+CUST_2913,2025-03-03,United States,Logistics,500+,Mid-Market
+CUST_2914,2025-10-20,Unknown,Logistics,500+,Enterprise
+CUST_2915,2025-04-18,United States,Finance,500+,Enterprise
+CUST_2916,2025-09-16,United Kingdom,Healthcare,51-200,Enterprise
+CUST_2917,2025-10-05,Unknown,Logistics,11-50,Enterprise
+CUST_2918,2025-01-25,Canada,Saas,500+,SMB
+CUST_2919,2025-01-01,Canada,Healthcare,51-200,Enterprise
+CUST_2920,2025-01-18,United Kingdom,Healthcare,201-500,SMB
+CUST_2921,2025-07-28,United Kingdom,Unknown,201-500,Mid-Market
+CUST_2922,2025-06-28,Unknown,Saas,11-50,Mid-Market
+CUST_2923,2025-01-04,Canada,Logistics,500+,Enterprise
+CUST_2924,2025-01-17,Unknown,Finance,500+,SMB
+CUST_2925,2025-02-10,Canada,Healthcare,unknown,Mid-Market
+CUST_2926,2025-01-24,Unknown,Finance,1-10,Mid-Market
+CUST_2927,2025-11-03,United Kingdom,Healthcare,51-200,Mid-Market
+CUST_2928,2025-12-09,United Kingdom,Healthcare,51-200,Mid-Market
+CUST_2929,2025-10-17,Canada,Healthcare,1-10,Mid-Market
+CUST_2930,2025-08-11,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_2931,2025-09-22,United States,E-Commerce,1-10,SMB
+CUST_2932,2025-12-22,United Kingdom,Healthcare,51-200,Enterprise
+CUST_2933,2025-03-14,Canada,Finance,51-200,SMB
+CUST_2934,2025-01-23,Unknown,Unknown,11-50,Enterprise
+CUST_2935,2025-01-19,Canada,Saas,11-50,Enterprise
+CUST_2936,2025-01-16,United Kingdom,Healthcare,500+,Enterprise
+CUST_2937,2025-12-10,Unknown,Healthcare,11-50,Enterprise
+CUST_2938,2025-08-04,Canada,Healthcare,unknown,SMB
+CUST_2939,2025-04-18,United States,Logistics,11-50,Enterprise
+CUST_2940,2025-01-23,United States,Logistics,500+,Mid-Market
+CUST_2941,2025-09-17,United States,Saas,51-200,Mid-Market
+CUST_2942,2025-04-29,United States,Unknown,51-200,SMB
+CUST_2943,2025-09-04,United States,Healthcare,201-500,Mid-Market
+CUST_2944,2025-01-10,Unknown,Healthcare,500+,Enterprise
+CUST_2945,2025-01-28,Unknown,Finance,1-10,SMB
+CUST_2946,2025-06-25,Unknown,Finance,51-200,Enterprise
+CUST_2947,2025-09-20,Canada,Logistics,unknown,SMB
+CUST_2948,2025-08-22,United States,Saas,1-10,Enterprise
+CUST_2949,2025-08-31,Unknown,E-Commerce,11-50,Mid-Market
+CUST_2950,2025-09-23,United States,E-Commerce,unknown,Enterprise
+CUST_2951,2025-11-06,United States,Healthcare,201-500,Mid-Market
+CUST_2952,2025-11-08,United Kingdom,Saas,11-50,Enterprise
+CUST_2953,2025-02-15,Canada,Logistics,500+,SMB
+CUST_2954,2025-10-07,United States,E-Commerce,1-10,SMB
+CUST_2955,2025-05-07,United Kingdom,E-Commerce,11-50,Mid-Market
+CUST_2956,2025-06-24,United Kingdom,Healthcare,201-500,Enterprise
+CUST_2957,2025-02-19,United States,Healthcare,1-10,Enterprise
+CUST_2958,2025-03-21,Canada,E-Commerce,201-500,SMB
+CUST_2959,2025-08-02,Unknown,Saas,51-200,Mid-Market
+CUST_2960,2025-03-19,Unknown,Finance,11-50,Enterprise
+CUST_2961,2025-08-07,United States,Saas,unknown,SMB
+CUST_2962,2025-12-07,United Kingdom,Logistics,11-50,Mid-Market
+CUST_2963,2025-07-26,Unknown,Logistics,11-50,Mid-Market
+CUST_2964,2025-07-01,United States,Saas,1-10,Mid-Market
+CUST_2965,2025-04-01,Canada,Logistics,11-50,Mid-Market
+CUST_2966,2025-02-06,United States,Saas,51-200,Mid-Market
+CUST_2967,2025-05-22,United Kingdom,E-Commerce,11-50,Mid-Market
+CUST_2968,2025-11-29,United Kingdom,Finance,unknown,SMB
+CUST_2969,2025-09-17,United States,Logistics,51-200,Enterprise
+CUST_2970,2025-07-03,United States,Unknown,unknown,Mid-Market
+CUST_2971,2025-12-27,United States,Healthcare,500+,Mid-Market
+CUST_2972,2025-01-13,United States,Saas,1-10,Enterprise
+CUST_2973,2025-01-16,United States,Finance,201-500,Enterprise
+CUST_2974,2025-09-01,United States,Unknown,201-500,Mid-Market
+CUST_2975,2025-03-17,United States,Finance,51-200,Mid-Market
+CUST_2976,2025-09-28,United States,Saas,51-200,SMB
+CUST_2977,2025-12-06,Canada,Logistics,51-200,SMB
+CUST_2978,2025-07-19,United Kingdom,Unknown,201-500,SMB
+CUST_2979,2025-07-09,Unknown,Healthcare,500+,Mid-Market
+CUST_2980,2025-02-12,Unknown,Healthcare,500+,Mid-Market
+CUST_2981,2025-05-08,Unknown,Healthcare,unknown,Enterprise
+CUST_2982,2025-05-16,Unknown,Saas,201-500,Enterprise
+CUST_2983,2025-12-01,United States,E-Commerce,51-200,Mid-Market
+CUST_2984,2025-08-14,United States,Saas,51-200,Enterprise
+CUST_2985,2025-01-07,Canada,E-Commerce,201-500,SMB
+CUST_2986,2025-04-24,Canada,Saas,11-50,Enterprise
+CUST_2987,2025-11-05,Unknown,Unknown,51-200,SMB
+CUST_2988,2025-09-25,Unknown,Unknown,51-200,Mid-Market
+CUST_2989,2025-11-24,Unknown,E-Commerce,500+,Mid-Market
+CUST_2990,2025-08-06,United Kingdom,Healthcare,11-50,Enterprise
+CUST_2991,2025-05-28,Canada,Finance,unknown,Enterprise
+CUST_2992,2025-06-24,United Kingdom,Saas,1-10,Enterprise
+CUST_2993,2025-08-23,United States,Healthcare,500+,Mid-Market
+CUST_2994,2025-08-10,United Kingdom,Unknown,51-200,Mid-Market
+CUST_2995,2025-01-04,United Kingdom,Healthcare,1-10,SMB
+CUST_2996,2025-01-05,Canada,Saas,unknown,Enterprise
+CUST_2997,2025-10-29,United States,Healthcare,11-50,Enterprise
+CUST_2998,2025-02-12,Unknown,Unknown,201-500,Enterprise
+CUST_2999,2025-01-07,Canada,E-Commerce,51-200,Enterprise
+CUST_3000,2025-07-25,Unknown,Unknown,11-50,SMB
+CUST_3001,2025-10-04,Canada,E-Commerce,unknown,Mid-Market
+CUST_3002,2025-04-16,Unknown,E-Commerce,500+,Enterprise
+CUST_3003,2025-12-05,United States,Finance,11-50,Mid-Market
+CUST_3004,2025-08-15,United States,Logistics,500+,SMB
+CUST_3005,2025-10-23,United Kingdom,Saas,1-10,Mid-Market
+CUST_3006,2025-09-14,Unknown,E-Commerce,51-200,Mid-Market
+CUST_3007,2025-09-03,Canada,Saas,unknown,SMB
+CUST_3008,2025-04-26,Unknown,Saas,11-50,Enterprise
+CUST_3009,2025-05-08,Unknown,Finance,unknown,Enterprise
+CUST_3010,2025-09-03,United States,Unknown,1-10,Enterprise
+CUST_3011,2025-07-14,United Kingdom,Finance,unknown,Mid-Market
+CUST_3012,2025-11-17,United States,Healthcare,1-10,Mid-Market
+CUST_3013,2025-07-13,United States,E-Commerce,500+,Mid-Market
+CUST_3014,2025-12-29,Canada,Finance,1-10,SMB
+CUST_3015,2025-08-17,Canada,Healthcare,unknown,SMB
+CUST_3016,2025-11-27,United Kingdom,Saas,51-200,SMB
+CUST_3017,2025-05-03,Unknown,Healthcare,1-10,SMB
+CUST_3018,2025-11-21,United States,Healthcare,11-50,Mid-Market
+CUST_3019,2025-08-12,United States,Logistics,201-500,Mid-Market
+CUST_3020,2025-11-03,United Kingdom,Finance,201-500,Enterprise
+CUST_3021,2025-01-12,Unknown,Healthcare,500+,SMB
+CUST_3022,2025-02-27,Canada,E-Commerce,11-50,SMB
+CUST_3023,2025-09-18,United Kingdom,Healthcare,1-10,SMB
+CUST_3024,2025-05-08,Canada,Finance,1-10,SMB
+CUST_3025,2025-09-25,United Kingdom,Saas,201-500,Mid-Market
+CUST_3026,2025-10-19,Unknown,Logistics,51-200,Mid-Market
+CUST_3027,2025-07-26,United States,Unknown,201-500,Mid-Market
+CUST_3028,2025-12-05,United States,Saas,201-500,Mid-Market
+CUST_3029,2025-08-05,United Kingdom,Finance,500+,SMB
+CUST_3030,2025-07-31,United Kingdom,Saas,500+,Enterprise
+CUST_3031,2025-04-22,Canada,Unknown,11-50,Enterprise
+CUST_3032,2025-04-02,United States,Saas,1-10,Mid-Market
+CUST_3033,2025-02-05,United States,Unknown,201-500,Mid-Market
+CUST_3034,2025-02-14,United States,E-Commerce,11-50,Mid-Market
+CUST_3035,2025-04-19,Canada,Unknown,201-500,Mid-Market
+CUST_3036,2025-01-03,United Kingdom,E-Commerce,1-10,Enterprise
+CUST_3037,2025-11-22,Unknown,Healthcare,500+,SMB
+CUST_3038,2025-05-05,Unknown,Healthcare,500+,SMB
+CUST_3039,2025-10-06,Canada,Unknown,1-10,SMB
+CUST_3040,2025-06-13,Unknown,Healthcare,51-200,Enterprise
+CUST_3041,2025-02-06,United Kingdom,E-Commerce,201-500,Mid-Market
+CUST_3042,2025-02-15,Unknown,Unknown,51-200,SMB
+CUST_3043,2025-08-24,United States,E-Commerce,201-500,SMB
+CUST_3044,2025-12-12,United States,Healthcare,201-500,Enterprise
+CUST_3045,2025-06-16,United States,Healthcare,unknown,Mid-Market
+CUST_3046,2025-06-16,United States,Saas,11-50,Mid-Market
+CUST_3047,2025-01-24,Unknown,Healthcare,500+,SMB
+CUST_3048,2025-07-05,United States,Finance,unknown,SMB
+CUST_3049,2025-12-22,United States,Saas,1-10,SMB
+CUST_3050,2025-05-29,Canada,Healthcare,unknown,SMB
+CUST_3051,2025-01-18,United States,Logistics,1-10,Enterprise
+CUST_3052,2025-06-10,United Kingdom,Healthcare,1-10,SMB
+CUST_3053,2025-12-22,United States,E-Commerce,11-50,Enterprise
+CUST_3054,2025-01-24,Canada,Healthcare,unknown,SMB
+CUST_3055,2025-07-20,Unknown,Finance,201-500,Enterprise
+CUST_3056,2025-05-10,United Kingdom,Finance,201-500,SMB
+CUST_3057,2025-08-09,United States,Finance,201-500,SMB
+CUST_3058,2025-05-09,Canada,E-Commerce,unknown,Mid-Market
+CUST_3059,2025-01-24,Canada,Logistics,1-10,Mid-Market
+CUST_3060,2025-09-19,Canada,Saas,unknown,SMB
+CUST_3061,2025-08-03,Canada,E-Commerce,201-500,Mid-Market
+CUST_3062,2025-10-11,United States,Finance,51-200,Mid-Market
+CUST_3063,2025-09-25,United States,Unknown,201-500,SMB
+CUST_3064,2025-02-03,United Kingdom,E-Commerce,51-200,SMB
+CUST_3065,2025-11-24,Unknown,Logistics,51-200,SMB
+CUST_3066,2025-09-12,United States,E-Commerce,201-500,Mid-Market
+CUST_3067,2025-10-02,United States,Logistics,500+,Mid-Market
+CUST_3068,2025-12-26,Canada,Healthcare,1-10,Mid-Market
+CUST_3069,2025-07-02,Canada,Saas,201-500,SMB
+CUST_3070,2025-08-11,United States,Unknown,1-10,SMB
+CUST_3071,2025-11-25,Unknown,Healthcare,201-500,SMB
+CUST_3072,2025-12-30,United Kingdom,Saas,51-200,SMB
+CUST_3073,2025-02-23,United States,Logistics,1-10,Enterprise
+CUST_3074,2025-07-03,United Kingdom,Healthcare,11-50,SMB
+CUST_3075,2025-03-31,Canada,E-Commerce,1-10,Mid-Market
+CUST_3076,2025-03-24,United Kingdom,Finance,1-10,Enterprise
+CUST_3077,2025-12-25,Canada,Logistics,201-500,SMB
+CUST_3078,2025-12-14,United Kingdom,Finance,1-10,Enterprise
+CUST_3079,2025-08-07,United States,Unknown,11-50,Enterprise
+CUST_3080,2025-04-14,Unknown,Unknown,201-500,Mid-Market
+CUST_3081,2025-03-18,United Kingdom,Saas,1-10,Mid-Market
+CUST_3082,2025-08-31,United States,E-Commerce,51-200,Enterprise
+CUST_3083,2025-10-08,United States,Logistics,201-500,Enterprise
+CUST_3084,2025-08-02,Canada,Logistics,11-50,Mid-Market
+CUST_3085,2025-03-21,Unknown,Finance,500+,Mid-Market
+CUST_3086,2025-08-03,Canada,Unknown,51-200,Enterprise
+CUST_3087,2025-09-02,Canada,Healthcare,unknown,Mid-Market
+CUST_3088,2025-11-07,Unknown,Unknown,11-50,Mid-Market
+CUST_3089,2025-06-28,United States,Healthcare,11-50,Enterprise
+CUST_3090,2025-06-22,United States,Finance,201-500,SMB
+CUST_3091,2025-07-12,Canada,E-Commerce,51-200,Enterprise
+CUST_3092,2025-04-25,United States,E-Commerce,201-500,SMB
+CUST_3093,2025-03-11,United Kingdom,Unknown,1-10,Mid-Market
+CUST_3094,2025-12-05,United States,Saas,unknown,Enterprise
+CUST_3095,2025-08-13,United Kingdom,Healthcare,51-200,Enterprise
+CUST_3096,2025-09-22,United States,E-Commerce,51-200,Enterprise
+CUST_3097,2025-07-18,United Kingdom,E-Commerce,unknown,Enterprise
+CUST_3098,2025-12-01,United Kingdom,Healthcare,51-200,Enterprise
+CUST_3099,2025-10-29,Unknown,E-Commerce,500+,Mid-Market
+CUST_3100,2025-03-16,Canada,Finance,unknown,Enterprise
+CUST_3101,2025-06-05,United States,E-Commerce,unknown,Enterprise
+CUST_3102,2025-08-03,United States,Unknown,1-10,Enterprise
+CUST_3103,2025-12-14,Unknown,Logistics,51-200,Enterprise
+CUST_3104,2025-07-22,Unknown,Finance,1-10,Mid-Market
+CUST_3105,2025-08-10,Canada,Finance,51-200,SMB
+CUST_3106,2025-08-17,Canada,Healthcare,201-500,Enterprise
+CUST_3107,2025-07-03,United States,Healthcare,201-500,Enterprise
+CUST_3108,2025-06-17,United Kingdom,Saas,500+,Mid-Market
+CUST_3109,2025-11-14,United States,Saas,unknown,Enterprise
+CUST_3110,2025-05-29,Canada,Saas,500+,SMB
+CUST_3111,2025-08-03,United Kingdom,Finance,unknown,Enterprise
+CUST_3112,2025-04-02,United States,Logistics,11-50,SMB
+CUST_3113,2025-04-01,Canada,Unknown,500+,Mid-Market
+CUST_3114,2025-02-17,Unknown,Logistics,201-500,Enterprise
+CUST_3115,2025-01-23,United States,Finance,11-50,SMB
+CUST_3116,2025-03-11,United States,Finance,201-500,SMB
+CUST_3117,2025-04-06,Canada,Saas,201-500,Enterprise
+CUST_3118,2025-06-27,United Kingdom,Logistics,1-10,Mid-Market
+CUST_3119,2025-12-20,Canada,Logistics,1-10,Mid-Market
+CUST_3120,2025-02-13,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_3121,2025-06-25,United States,Unknown,11-50,Mid-Market
+CUST_3122,2025-02-15,United Kingdom,Finance,201-500,SMB
+CUST_3123,2025-12-18,United States,Finance,11-50,SMB
+CUST_3124,2025-06-12,United Kingdom,Finance,1-10,Mid-Market
+CUST_3125,2025-06-18,United States,Saas,unknown,SMB
+CUST_3126,2025-06-14,Canada,Finance,unknown,Mid-Market
+CUST_3127,2025-05-04,United Kingdom,E-Commerce,unknown,Enterprise
+CUST_3128,2025-09-09,United Kingdom,Healthcare,11-50,Enterprise
+CUST_3129,2025-04-17,United Kingdom,E-Commerce,51-200,Mid-Market
+CUST_3130,2025-07-29,Unknown,E-Commerce,unknown,SMB
+CUST_3131,2025-07-06,United Kingdom,E-Commerce,11-50,Enterprise
+CUST_3132,2025-05-15,United States,Finance,500+,Enterprise
+CUST_3133,2025-11-09,Unknown,E-Commerce,1-10,Mid-Market
+CUST_3134,2025-06-26,Unknown,E-Commerce,1-10,Mid-Market
+CUST_3135,2025-09-27,United Kingdom,Unknown,500+,Mid-Market
+CUST_3136,2025-06-12,Canada,Saas,1-10,Mid-Market
+CUST_3137,2025-06-01,United States,Finance,unknown,SMB
+CUST_3138,2025-11-29,Canada,Logistics,1-10,Enterprise
+CUST_3139,2025-06-23,Unknown,Logistics,1-10,Enterprise
+CUST_3140,2025-09-28,United States,Saas,500+,SMB
+CUST_3141,2025-01-09,Unknown,Saas,1-10,Enterprise
+CUST_3142,2025-01-11,Unknown,Saas,201-500,SMB
+CUST_3143,2025-01-28,Canada,Unknown,201-500,Enterprise
+CUST_3144,2025-04-08,United States,Unknown,11-50,SMB
+CUST_3145,2025-08-15,Unknown,Unknown,unknown,Enterprise
+CUST_3146,2025-06-07,Canada,Unknown,11-50,Enterprise
+CUST_3147,2025-06-25,Canada,Saas,201-500,Mid-Market
+CUST_3148,2025-07-11,Canada,Saas,unknown,SMB
+CUST_3149,2025-07-11,Canada,Saas,51-200,Enterprise
+CUST_3150,2025-02-19,United States,Unknown,51-200,SMB
+CUST_3151,2025-06-28,Unknown,Healthcare,11-50,SMB
+CUST_3152,2025-10-02,Unknown,Saas,unknown,Mid-Market
+CUST_3153,2025-10-17,United Kingdom,Finance,500+,Enterprise
+CUST_3154,2025-04-17,Unknown,E-Commerce,1-10,SMB
+CUST_3155,2025-12-17,United Kingdom,Unknown,unknown,SMB
+CUST_3156,2025-09-14,Canada,Finance,51-200,Enterprise
+CUST_3157,2025-05-20,Unknown,Unknown,unknown,Enterprise
+CUST_3158,2025-11-29,Unknown,E-Commerce,500+,Enterprise
+CUST_3159,2025-10-03,United States,Healthcare,51-200,SMB
+CUST_3160,2025-04-01,Canada,Unknown,51-200,SMB
+CUST_3161,2025-10-04,United States,Finance,201-500,Enterprise
+CUST_3162,2025-03-09,Unknown,Healthcare,51-200,Mid-Market
+CUST_3163,2025-09-03,Canada,Finance,11-50,Mid-Market
+CUST_3164,2025-12-17,United States,Saas,201-500,Enterprise
+CUST_3165,2025-07-20,United Kingdom,Finance,unknown,Mid-Market
+CUST_3166,2025-02-11,Unknown,Unknown,201-500,SMB
+CUST_3167,2025-06-25,Canada,Logistics,500+,Enterprise
+CUST_3168,2025-08-18,Canada,Finance,unknown,SMB
+CUST_3169,2025-02-24,Canada,Saas,201-500,Mid-Market
+CUST_3170,2025-10-07,United Kingdom,Unknown,11-50,SMB
+CUST_3171,2025-07-09,Unknown,Finance,1-10,Mid-Market
+CUST_3172,2025-08-01,United States,Logistics,1-10,Mid-Market
+CUST_3173,2025-10-02,Unknown,Finance,201-500,Enterprise
+CUST_3174,2025-12-18,United Kingdom,Logistics,51-200,Enterprise
+CUST_3175,2025-05-13,United Kingdom,Saas,201-500,Mid-Market
+CUST_3176,2025-05-19,United States,Logistics,201-500,SMB
+CUST_3177,2025-07-20,United States,Unknown,11-50,Enterprise
+CUST_3178,2025-02-22,Canada,Saas,11-50,Mid-Market
+CUST_3179,2025-03-31,United States,Saas,11-50,Enterprise
+CUST_3180,2025-06-23,United States,Saas,unknown,SMB
+CUST_3181,2025-10-12,United Kingdom,Unknown,51-200,SMB
+CUST_3182,2025-10-11,United Kingdom,Unknown,51-200,Mid-Market
+CUST_3183,2025-01-31,United Kingdom,Healthcare,11-50,Enterprise
+CUST_3184,2025-09-28,United Kingdom,Logistics,500+,Enterprise
+CUST_3185,2025-07-04,United States,E-Commerce,500+,Enterprise
+CUST_3186,2025-05-01,United States,Healthcare,unknown,SMB
+CUST_3187,2025-03-11,United States,Finance,51-200,Enterprise
+CUST_3188,2025-06-02,Unknown,Unknown,unknown,Enterprise
+CUST_3189,2025-09-22,Unknown,Finance,51-200,Mid-Market
+CUST_3190,2025-05-19,Canada,E-Commerce,1-10,SMB
+CUST_3191,2025-08-18,United Kingdom,Unknown,unknown,Mid-Market
+CUST_3192,2025-10-22,United States,Unknown,1-10,Mid-Market
+CUST_3193,2025-11-07,United States,Finance,unknown,SMB
+CUST_3194,2025-02-19,United States,Unknown,201-500,SMB
+CUST_3195,2025-04-24,Unknown,Healthcare,11-50,SMB
+CUST_3196,2025-08-26,United Kingdom,Saas,11-50,Enterprise
+CUST_3197,2025-12-09,Canada,Saas,1-10,Mid-Market
+CUST_3198,2025-11-30,Unknown,Finance,500+,Mid-Market
+CUST_3199,2025-11-05,United States,Unknown,201-500,SMB
+CUST_3200,2025-10-10,United States,Saas,500+,Enterprise
+CUST_3201,2025-10-15,Unknown,Saas,51-200,Enterprise
+CUST_3202,2025-08-05,Canada,Finance,201-500,SMB
+CUST_3203,2025-02-01,United States,Logistics,1-10,Enterprise
+CUST_3204,2025-09-09,United States,Healthcare,11-50,Mid-Market
+CUST_3205,2025-06-03,United Kingdom,Unknown,51-200,Enterprise
+CUST_3206,2025-06-05,United Kingdom,Unknown,500+,Enterprise
+CUST_3207,2025-09-03,Canada,Saas,51-200,Mid-Market
+CUST_3208,2025-04-02,United Kingdom,Healthcare,201-500,Mid-Market
+CUST_3209,2025-07-11,United States,Saas,11-50,Mid-Market
+CUST_3210,2025-01-05,United States,Unknown,11-50,SMB
+CUST_3211,2025-04-27,Canada,Healthcare,201-500,SMB
+CUST_3212,2025-02-16,Unknown,Finance,1-10,Enterprise
+CUST_3213,2025-09-04,Unknown,Healthcare,500+,Mid-Market
+CUST_3214,2025-11-30,Unknown,Finance,201-500,Mid-Market
+CUST_3215,2025-06-05,Canada,Unknown,unknown,Enterprise
+CUST_3216,2025-10-22,United States,E-Commerce,1-10,Mid-Market
+CUST_3217,2025-10-22,United States,Unknown,51-200,Enterprise
+CUST_3218,2025-12-23,Unknown,Finance,500+,SMB
+CUST_3219,2025-11-15,United States,Saas,11-50,Enterprise
+CUST_3220,2025-11-23,Canada,Saas,11-50,Mid-Market
+CUST_3221,2025-11-27,United Kingdom,Finance,1-10,Mid-Market
+CUST_3222,2025-11-20,Canada,Unknown,11-50,Enterprise
+CUST_3223,2025-03-11,United States,Unknown,51-200,Enterprise
+CUST_3224,2025-09-21,Canada,Finance,unknown,SMB
+CUST_3225,2025-05-12,Canada,Logistics,201-500,Enterprise
+CUST_3226,2025-02-26,United States,Unknown,51-200,SMB
+CUST_3227,2025-08-04,Unknown,E-Commerce,51-200,Enterprise
+CUST_3228,2025-06-24,Unknown,Logistics,11-50,Mid-Market
+CUST_3229,2025-10-19,United States,Healthcare,1-10,Enterprise
+CUST_3230,2025-03-21,United States,E-Commerce,51-200,Enterprise
+CUST_3231,2025-02-06,United States,E-Commerce,11-50,Enterprise
+CUST_3232,2025-11-11,Canada,Healthcare,51-200,Enterprise
+CUST_3233,2025-02-27,United Kingdom,Finance,1-10,Enterprise
+CUST_3234,2025-08-28,Canada,E-Commerce,1-10,Enterprise
+CUST_3235,2025-09-18,United States,E-Commerce,201-500,Enterprise
+CUST_3236,2025-09-16,United States,Finance,500+,Mid-Market
+CUST_3237,2025-12-20,United States,Healthcare,1-10,SMB
+CUST_3238,2025-12-08,Canada,Saas,1-10,SMB
+CUST_3239,2025-12-05,Unknown,Finance,500+,Mid-Market
+CUST_3240,2025-03-07,United States,Saas,500+,Enterprise
+CUST_3241,2025-02-06,United States,Logistics,1-10,Mid-Market
+CUST_3242,2025-11-18,United Kingdom,Logistics,1-10,SMB
+CUST_3243,2025-01-04,United States,Logistics,201-500,SMB
+CUST_3244,2025-09-01,United States,Healthcare,11-50,Mid-Market
+CUST_3245,2025-01-04,United Kingdom,Healthcare,201-500,Enterprise
+CUST_3246,2025-04-19,United States,Unknown,1-10,SMB
+CUST_3247,2025-11-26,Canada,E-Commerce,51-200,Enterprise
+CUST_3248,2025-03-05,Unknown,Saas,unknown,SMB
+CUST_3249,2025-03-07,Unknown,E-Commerce,1-10,Mid-Market
+CUST_3250,2025-07-27,United States,Finance,1-10,SMB
+CUST_3251,2025-10-26,United Kingdom,Logistics,1-10,Enterprise
+CUST_3252,2025-10-04,United Kingdom,Finance,1-10,Enterprise
+CUST_3253,2025-08-21,United Kingdom,Finance,51-200,SMB
+CUST_3254,2025-09-10,United Kingdom,Healthcare,201-500,SMB
+CUST_3255,2025-06-04,United Kingdom,Unknown,500+,Enterprise
+CUST_3256,2025-08-06,Canada,Healthcare,unknown,Enterprise
+CUST_3257,2025-08-04,Canada,Logistics,201-500,Mid-Market
+CUST_3258,2025-09-14,Unknown,E-Commerce,201-500,SMB
+CUST_3259,2025-02-04,Unknown,E-Commerce,201-500,Enterprise
+CUST_3260,2025-09-13,United States,Saas,500+,Mid-Market
+CUST_3261,2025-03-06,United States,Healthcare,201-500,Mid-Market
+CUST_3262,2025-07-18,United States,E-Commerce,11-50,Enterprise
+CUST_3263,2025-04-30,Canada,Saas,11-50,Mid-Market
+CUST_3264,2025-01-28,United States,Saas,500+,Mid-Market
+CUST_3265,2025-07-17,United States,Finance,11-50,Enterprise
+CUST_3266,2025-04-25,United States,Logistics,201-500,Enterprise
+CUST_3267,2025-12-08,United States,Logistics,500+,Enterprise
+CUST_3268,2025-08-24,United States,Healthcare,unknown,Enterprise
+CUST_3269,2025-03-07,United Kingdom,Healthcare,11-50,Mid-Market
+CUST_3270,2025-09-18,United States,E-Commerce,1-10,Enterprise
+CUST_3271,2025-03-05,Unknown,Healthcare,201-500,SMB
+CUST_3272,2025-08-07,Canada,Logistics,unknown,SMB
+CUST_3273,2025-04-23,Unknown,Unknown,500+,SMB
+CUST_3274,2025-02-02,United Kingdom,E-Commerce,11-50,Mid-Market
+CUST_3275,2025-12-24,United States,Unknown,unknown,SMB
+CUST_3276,2025-04-27,United States,Saas,500+,SMB
+CUST_3277,2025-12-24,United States,Finance,500+,SMB
+CUST_3278,2025-03-31,Canada,E-Commerce,51-200,Mid-Market
+CUST_3279,2025-10-20,Canada,Logistics,500+,Mid-Market
+CUST_3280,2025-09-19,United States,E-Commerce,201-500,SMB
+CUST_3281,2025-08-13,United States,Finance,500+,Mid-Market
+CUST_3282,2025-04-11,United Kingdom,E-Commerce,201-500,SMB
+CUST_3283,2025-11-16,Canada,Saas,500+,Mid-Market
+CUST_3284,2025-09-24,United States,Healthcare,1-10,Enterprise
+CUST_3285,2025-04-14,United Kingdom,Logistics,51-200,SMB
+CUST_3286,2025-12-08,Canada,Finance,500+,SMB
+CUST_3287,2025-08-30,United States,E-Commerce,1-10,SMB
+CUST_3288,2025-07-29,Unknown,Finance,11-50,SMB
+CUST_3289,2025-06-25,United States,E-Commerce,unknown,SMB
+CUST_3290,2025-06-20,Canada,Unknown,11-50,SMB
+CUST_3291,2025-03-22,Unknown,Healthcare,500+,Mid-Market
+CUST_3292,2025-09-01,United States,Saas,201-500,SMB
+CUST_3293,2025-10-27,Canada,Unknown,11-50,Mid-Market
+CUST_3294,2025-09-13,United States,Healthcare,1-10,Enterprise
+CUST_3295,2025-07-18,United Kingdom,Finance,500+,Mid-Market
+CUST_3296,2025-11-29,Canada,E-Commerce,51-200,Mid-Market
+CUST_3297,2025-01-30,United States,E-Commerce,500+,SMB
+CUST_3298,2025-09-18,Canada,Saas,11-50,SMB
+CUST_3299,2025-04-04,United Kingdom,Logistics,1-10,Enterprise
+CUST_3300,2025-07-26,United Kingdom,Saas,201-500,Mid-Market
+CUST_3301,2025-09-28,United States,E-Commerce,500+,Mid-Market
+CUST_3302,2025-02-20,Unknown,Healthcare,1-10,SMB
+CUST_3303,2025-09-04,United Kingdom,Healthcare,51-200,Mid-Market
+CUST_3304,2025-10-12,United Kingdom,Finance,201-500,Mid-Market
+CUST_3305,2025-05-03,Unknown,Unknown,1-10,Enterprise
+CUST_3306,2025-07-04,United States,Healthcare,51-200,SMB
+CUST_3307,2025-04-30,United States,Unknown,11-50,Mid-Market
+CUST_3308,2025-03-18,Unknown,E-Commerce,500+,Enterprise
+CUST_3309,2025-04-11,United Kingdom,Healthcare,201-500,Mid-Market
+CUST_3310,2025-05-12,Canada,Finance,11-50,SMB
+CUST_3311,2025-09-29,Canada,Saas,1-10,Mid-Market
+CUST_3312,2025-11-06,Unknown,Healthcare,1-10,Mid-Market
+CUST_3313,2025-07-13,Canada,Healthcare,unknown,SMB
+CUST_3314,2025-01-31,Canada,E-Commerce,201-500,Mid-Market
+CUST_3315,2025-10-04,United Kingdom,Healthcare,unknown,SMB
+CUST_3316,2025-08-08,United States,Saas,500+,Enterprise
+CUST_3317,2025-12-26,United States,Logistics,unknown,Mid-Market
+CUST_3318,2025-11-02,Canada,E-Commerce,201-500,SMB
+CUST_3319,2025-02-02,United Kingdom,E-Commerce,500+,Enterprise
+CUST_3320,2025-12-27,United States,E-Commerce,1-10,Mid-Market
+CUST_3321,2025-05-12,United Kingdom,Finance,500+,SMB
+CUST_3322,2025-10-15,Unknown,Finance,unknown,Enterprise
+CUST_3323,2025-04-15,Unknown,Unknown,unknown,SMB
+CUST_3324,2025-02-18,Canada,Healthcare,unknown,Mid-Market
+CUST_3325,2025-01-15,United States,E-Commerce,51-200,Enterprise
+CUST_3326,2025-06-14,United States,Saas,unknown,Enterprise
+CUST_3327,2025-11-14,Canada,Saas,1-10,Enterprise
+CUST_3328,2025-03-20,United Kingdom,Saas,500+,Enterprise
+CUST_3329,2025-01-13,Unknown,Saas,11-50,Mid-Market
+CUST_3330,2025-05-07,Canada,Saas,11-50,SMB
+CUST_3331,2025-06-01,Canada,Healthcare,11-50,Mid-Market
+CUST_3332,2025-08-22,United Kingdom,Unknown,11-50,SMB
+CUST_3333,2025-12-03,United States,Logistics,201-500,Mid-Market
+CUST_3334,2025-12-19,United States,Healthcare,1-10,Mid-Market
+CUST_3335,2025-10-21,Canada,Healthcare,unknown,Mid-Market
+CUST_3336,2025-10-07,Unknown,Healthcare,1-10,Mid-Market
+CUST_3337,2025-04-28,United States,E-Commerce,201-500,SMB
+CUST_3338,2025-04-20,Unknown,Healthcare,51-200,Mid-Market
+CUST_3339,2025-03-20,United States,Saas,201-500,Mid-Market
+CUST_3340,2025-01-09,Unknown,E-Commerce,11-50,SMB
+CUST_3341,2025-10-16,United States,Healthcare,11-50,SMB
+CUST_3342,2025-11-22,United Kingdom,E-Commerce,1-10,SMB
+CUST_3343,2025-04-22,Unknown,Logistics,11-50,SMB
+CUST_3344,2025-08-05,Canada,Finance,201-500,Enterprise
+CUST_3345,2025-03-25,Unknown,Saas,201-500,SMB
+CUST_3346,2025-04-07,United States,E-Commerce,unknown,Mid-Market
+CUST_3347,2025-02-21,United States,Healthcare,51-200,SMB
+CUST_3348,2025-07-17,Unknown,Healthcare,201-500,SMB
+CUST_3349,2025-11-01,Unknown,Logistics,1-10,Enterprise
+CUST_3350,2025-07-16,United Kingdom,Unknown,201-500,SMB
+CUST_3351,2025-04-16,Canada,Unknown,11-50,Enterprise
+CUST_3352,2025-03-28,Canada,Healthcare,unknown,SMB
+CUST_3353,2025-04-28,United States,E-Commerce,201-500,Enterprise
+CUST_3354,2025-12-01,United States,Unknown,11-50,SMB
+CUST_3355,2025-09-11,United States,Saas,51-200,SMB
+CUST_3356,2025-12-28,Unknown,Logistics,51-200,Enterprise
+CUST_3357,2025-04-23,Canada,Logistics,201-500,Mid-Market
+CUST_3358,2025-05-15,United Kingdom,Unknown,1-10,SMB
+CUST_3359,2025-10-27,Unknown,Unknown,51-200,SMB
+CUST_3360,2025-05-19,Canada,Saas,unknown,Enterprise
+CUST_3361,2025-12-04,United Kingdom,Unknown,201-500,Enterprise
+CUST_3362,2025-05-05,United States,E-Commerce,1-10,Enterprise
+CUST_3363,2025-01-22,United States,E-Commerce,11-50,SMB
+CUST_3364,2025-11-06,United Kingdom,Saas,500+,Mid-Market
+CUST_3365,2025-05-11,United Kingdom,Unknown,201-500,SMB
+CUST_3366,2025-02-04,United Kingdom,Logistics,500+,Mid-Market
+CUST_3367,2025-12-07,Canada,Finance,unknown,SMB
+CUST_3368,2025-12-21,United States,Finance,unknown,Enterprise
+CUST_3369,2025-01-03,United Kingdom,Unknown,unknown,Mid-Market
+CUST_3370,2025-11-04,United Kingdom,Healthcare,500+,Mid-Market
+CUST_3371,2025-06-20,United States,Finance,unknown,Mid-Market
+CUST_3372,2025-06-05,United States,Saas,51-200,SMB
+CUST_3373,2025-04-04,Unknown,Saas,201-500,Mid-Market
+CUST_3374,2025-01-08,United States,Logistics,201-500,SMB
+CUST_3375,2025-03-29,Canada,Unknown,unknown,Mid-Market
+CUST_3376,2025-08-21,Canada,Saas,201-500,SMB
+CUST_3377,2025-07-28,United Kingdom,Healthcare,unknown,SMB
+CUST_3378,2025-02-20,United Kingdom,Finance,1-10,Enterprise
+CUST_3379,2025-12-19,United States,Healthcare,11-50,Mid-Market
+CUST_3380,2025-11-23,Unknown,Logistics,51-200,Enterprise
+CUST_3381,2025-05-14,Unknown,Unknown,1-10,Mid-Market
+CUST_3382,2025-07-26,United States,Finance,unknown,Enterprise
+CUST_3383,2025-02-22,United Kingdom,Logistics,11-50,Mid-Market
+CUST_3384,2025-09-25,Canada,Healthcare,500+,Mid-Market
+CUST_3385,2025-01-07,United Kingdom,Saas,51-200,SMB
+CUST_3386,2025-08-17,Unknown,Unknown,51-200,SMB
+CUST_3387,2025-02-19,United States,Healthcare,11-50,SMB
+CUST_3388,2025-03-22,United Kingdom,Unknown,500+,SMB
+CUST_3389,2025-10-19,United States,Healthcare,unknown,SMB
+CUST_3390,2025-12-17,United States,Healthcare,500+,SMB
+CUST_3391,2025-05-02,United States,E-Commerce,11-50,Enterprise
+CUST_3392,2025-11-22,United States,Healthcare,201-500,SMB
+CUST_3393,2025-06-13,Unknown,Healthcare,11-50,Mid-Market
+CUST_3394,2025-12-08,United Kingdom,Healthcare,11-50,SMB
+CUST_3395,2025-12-07,United Kingdom,Logistics,11-50,SMB
+CUST_3396,2025-08-02,United States,E-Commerce,11-50,Mid-Market
+CUST_3397,2025-08-13,United Kingdom,Logistics,11-50,SMB
+CUST_3398,2025-01-06,Unknown,Logistics,1-10,Mid-Market
+CUST_3399,2025-09-07,Canada,Finance,51-200,SMB
+CUST_3400,2025-06-09,Canada,E-Commerce,500+,Mid-Market
+CUST_3401,2025-01-01,United States,E-Commerce,11-50,Enterprise
+CUST_3402,2025-02-08,United States,Logistics,500+,Mid-Market
+CUST_3403,2025-08-12,United States,Saas,1-10,SMB
+CUST_3404,2025-11-17,Unknown,E-Commerce,51-200,Mid-Market
+CUST_3405,2025-01-16,United Kingdom,Finance,1-10,Enterprise
+CUST_3406,2025-05-29,United States,E-Commerce,unknown,SMB
+CUST_3407,2025-08-22,United States,E-Commerce,500+,Enterprise
+CUST_3408,2025-04-06,United States,E-Commerce,1-10,SMB
+CUST_3409,2025-06-12,Unknown,Unknown,51-200,SMB
+CUST_3410,2025-10-15,United Kingdom,Healthcare,11-50,Mid-Market
+CUST_3411,2025-12-06,Unknown,Logistics,500+,Mid-Market
+CUST_3412,2025-02-25,Unknown,Logistics,unknown,Enterprise
+CUST_3413,2025-10-26,United Kingdom,Saas,201-500,Enterprise
+CUST_3414,2025-05-06,Unknown,Unknown,11-50,Mid-Market
+CUST_3415,2025-12-16,Unknown,Unknown,500+,SMB
+CUST_3416,2025-05-05,Unknown,Saas,unknown,Enterprise
+CUST_3417,2025-12-29,Canada,Finance,unknown,SMB
+CUST_3418,2025-11-18,Unknown,E-Commerce,500+,Mid-Market
+CUST_3419,2025-07-18,United States,Finance,51-200,Mid-Market
+CUST_3420,2025-08-22,United States,Unknown,unknown,Enterprise
+CUST_3421,2025-02-08,United Kingdom,Saas,11-50,Enterprise
+CUST_3422,2025-11-26,United States,Unknown,unknown,SMB
+CUST_3423,2025-03-27,Canada,Finance,11-50,Mid-Market
+CUST_3424,2025-01-11,Canada,Unknown,unknown,SMB
+CUST_3425,2025-10-26,United Kingdom,Logistics,1-10,Mid-Market
+CUST_3426,2025-02-28,Canada,Saas,201-500,Mid-Market
+CUST_3427,2025-01-07,Canada,Logistics,51-200,SMB
+CUST_3428,2025-05-19,Unknown,Logistics,1-10,Mid-Market
+CUST_3429,2025-08-04,United States,Unknown,1-10,SMB
+CUST_3430,2025-08-14,Canada,Saas,11-50,SMB
+CUST_3431,2025-06-20,Unknown,E-Commerce,201-500,SMB
+CUST_3432,2025-01-05,United States,Unknown,unknown,SMB
+CUST_3433,2025-05-07,United States,Finance,500+,Enterprise
+CUST_3434,2025-01-07,United States,E-Commerce,1-10,Mid-Market
+CUST_3435,2025-08-16,United States,Logistics,11-50,Mid-Market
+CUST_3436,2025-04-12,Unknown,Logistics,1-10,SMB
+CUST_3437,2025-01-14,Canada,Healthcare,500+,Mid-Market
+CUST_3438,2025-10-28,Unknown,Saas,500+,SMB
+CUST_3439,2025-12-13,United States,Saas,500+,Mid-Market
+CUST_3440,2025-08-14,United States,Finance,51-200,Mid-Market
+CUST_3441,2025-10-05,United Kingdom,Finance,1-10,Mid-Market
+CUST_3442,2025-05-08,United Kingdom,E-Commerce,11-50,SMB
+CUST_3443,2025-12-04,Canada,E-Commerce,11-50,Enterprise
+CUST_3444,2025-01-20,Canada,E-Commerce,1-10,Mid-Market
+CUST_3445,2025-03-06,Canada,Saas,11-50,Mid-Market
+CUST_3446,2025-05-10,Canada,Finance,1-10,Enterprise
+CUST_3447,2025-10-19,United States,Finance,1-10,Mid-Market
+CUST_3448,2025-02-22,Unknown,Unknown,unknown,SMB
+CUST_3449,2025-08-09,United States,E-Commerce,11-50,Enterprise
+CUST_3450,2025-09-27,Unknown,Unknown,1-10,Mid-Market
+CUST_3451,2025-10-20,Canada,Logistics,1-10,SMB
+CUST_3452,2025-07-21,Canada,Healthcare,11-50,Mid-Market
+CUST_3453,2025-06-03,Canada,Logistics,unknown,SMB
+CUST_3454,2025-06-03,Canada,Finance,unknown,SMB
+CUST_3455,2025-08-13,United States,E-Commerce,500+,SMB
+CUST_3456,2025-10-08,Unknown,E-Commerce,1-10,Enterprise
+CUST_3457,2025-05-07,United States,Healthcare,500+,Enterprise
+CUST_3458,2025-02-23,Unknown,Saas,1-10,SMB
+CUST_3459,2025-01-28,United Kingdom,Saas,unknown,SMB
+CUST_3460,2025-06-24,United Kingdom,E-Commerce,201-500,SMB
+CUST_3461,2025-08-25,Canada,E-Commerce,500+,SMB
+CUST_3462,2025-04-28,United States,Finance,11-50,SMB
+CUST_3463,2025-03-04,United Kingdom,E-Commerce,51-200,SMB
+CUST_3464,2025-01-10,United Kingdom,Saas,11-50,SMB
+CUST_3465,2025-10-26,Canada,Logistics,201-500,Enterprise
+CUST_3466,2025-10-14,Canada,Logistics,500+,SMB
+CUST_3467,2025-02-21,United States,Unknown,201-500,Mid-Market
+CUST_3468,2025-10-19,United States,Unknown,500+,SMB
+CUST_3469,2025-03-05,United States,Healthcare,500+,Enterprise
+CUST_3470,2025-11-15,Canada,Saas,500+,Mid-Market
+CUST_3471,2025-01-06,Canada,Finance,51-200,SMB
+CUST_3472,2025-11-08,United States,Unknown,51-200,Enterprise
+CUST_3473,2025-08-08,United States,Unknown,unknown,Mid-Market
+CUST_3474,2025-04-08,Canada,E-Commerce,unknown,SMB
+CUST_3475,2025-07-01,United States,Unknown,51-200,Mid-Market
+CUST_3476,2025-02-27,Canada,Healthcare,201-500,SMB
+CUST_3477,2025-03-14,United Kingdom,Healthcare,11-50,Enterprise
+CUST_3478,2025-03-25,Canada,Unknown,11-50,Enterprise
+CUST_3479,2025-10-22,United Kingdom,Healthcare,201-500,Mid-Market
+CUST_3480,2025-12-24,United States,Healthcare,unknown,Enterprise
+CUST_3481,2025-11-28,United States,Healthcare,11-50,SMB
+CUST_3482,2025-06-11,Canada,Healthcare,11-50,Enterprise
+CUST_3483,2025-04-29,United Kingdom,Saas,unknown,Mid-Market
+CUST_3484,2025-11-14,United States,Logistics,51-200,SMB
+CUST_3485,2025-01-08,Unknown,Unknown,11-50,Enterprise
+CUST_3486,2025-08-09,United States,Finance,11-50,SMB
+CUST_3487,2025-08-06,Unknown,Unknown,500+,Mid-Market
+CUST_3488,2025-05-08,United States,Saas,1-10,SMB
+CUST_3489,2025-02-04,Unknown,Healthcare,1-10,Mid-Market
+CUST_3490,2025-10-15,United States,E-Commerce,51-200,Mid-Market
+CUST_3491,2025-06-02,United Kingdom,E-Commerce,201-500,Mid-Market
+CUST_3492,2025-05-27,Canada,Saas,51-200,Enterprise
+CUST_3493,2025-05-04,Unknown,Finance,11-50,Enterprise
+CUST_3494,2025-01-23,United States,Healthcare,500+,Mid-Market
+CUST_3495,2025-09-30,United States,Saas,500+,Mid-Market
+CUST_3496,2025-07-19,United States,Healthcare,11-50,Enterprise
+CUST_3497,2025-03-25,Canada,Saas,11-50,SMB
+CUST_3498,2025-01-13,United Kingdom,Unknown,51-200,Enterprise
+CUST_3499,2025-02-09,Unknown,E-Commerce,1-10,SMB

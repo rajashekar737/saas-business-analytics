@@ -1,0 +1,7 @@
+dataset,business_key,duplicate_keys,missing_keys
+customers,customer_id,50,0
+plans,plan_id,0,0
+subscriptions,subscription_id,0,0
+payments,payment_id,0,0
+usage,usage_id,0,0
+support,ticket_id,0,0

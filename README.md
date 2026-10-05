@@ -123,12 +123,6 @@ The project avoids positioning me as an AI/ML engineer. Machine learning is part
 
 **One-line description:** End-to-end SaaS analytics project using Python, SQL, PostgreSQL, Power BI, and Excel to analyze revenue, customers, subscriptions, churn, product usage, and support performance.
 
-## Attribution
-
-This project started from an open-source SaaS analytics reference. The reference is preserved in `docs/ATTRIBUTION.md`. The portfolio version has been reorganized and customized around a Data Analyst / Business Analytics workflow, including business questions, KPI framing, analysis structure, documentation, and reporting artifacts.
-
-Do not remove attribution or present reused source assets as independently authored work.
-
 ## Professional links
 
 - **Portfolio:** https://raja-portfolio-nine.vercel.app/
